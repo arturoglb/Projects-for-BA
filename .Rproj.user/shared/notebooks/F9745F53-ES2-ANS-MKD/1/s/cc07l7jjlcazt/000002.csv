@@ -1,0 +1,2 @@
+"0","cor.coef <- c(cor(data)[1,2], cor(data)[1,3], cor(data)[1,4]) # create a vector with the coefficients"
+"0","t.stat <- cor.coef/sqrt((1-cor.coef^2)/(nrow(data)-2))"

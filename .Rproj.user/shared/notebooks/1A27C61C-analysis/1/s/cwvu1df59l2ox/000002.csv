@@ -1,0 +1,2 @@
+"0","regression4 <- ols_step_forward_aic(myfull4)"
+"0","plot(regression4)"

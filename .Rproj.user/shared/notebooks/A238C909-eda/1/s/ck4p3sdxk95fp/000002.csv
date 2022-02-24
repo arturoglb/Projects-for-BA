@@ -1,0 +1,17 @@
+"0",""
+"0","# world map in 2019"
+"0","mapped_data <- joinCountryData2Map(mortality_rate_country_wide_current, joinCode = ""ISO3"", nameJoinColumn = ""Country.Code3"", verbose = FALSE)"
+"1","203"
+"1"," "
+"1","codes from your data successfully matched countries in the map
+"
+"1","1"
+"1"," "
+"1","codes from your data failed to match with a country code in the map
+"
+"1","40"
+"1"," "
+"1","codes from the map weren't represented in your data
+"
+"0","par(mai = c(0, 0, 0.2, 0), xaxs = ""i"", yaxs = ""i"")"
+"0","mapCountryData(mapped_data, nameColumnToPlot = ""Total"", mapTitle = ""Mortality Rate World Map in 2019"", colourPalette = brewer.pal(7, ""YlOrRd""))"

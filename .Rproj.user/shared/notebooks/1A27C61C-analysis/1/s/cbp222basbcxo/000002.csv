@@ -1,0 +1,17 @@
+"0",""
+"0","airquality_by_year <- airquality_daily %>% mutate( year = format(Date, ""%y""), "
+"0","                          year = format(Date, ""%Y"")) %>% group_by(year, Country.Name)%>%"
+"0","                          summarise('Yearly Average PM2.5'=mean(Averagepm25, na.rm = TRUE),"
+"0","                                    'Yearly Average CO' =mean(Averageco, na.rm = TRUE),"
+"0","                                    'Yearly Average PM10'=mean(Averagepm10, na.rm = TRUE),"
+"0","                                    'Yearly Average O3'=mean(Averageo3, na.rm = TRUE),"
+"0","                                    'Yearly Average O2'=mean(Averageso2, na.rm = TRUE),"
+"0","                                    'Yearly Average NO2'=mean(Averageno2, na.rm = TRUE))%>%"
+"0","                          relocate(year, .before = 'Yearly Average PM2.5')%>%"
+"0","                          left_join(iso_country_codes, by = 'Country.Name')%>%"
+"0","                          select(-Country.Code2)%>%"
+"0","                          relocate(Country.Code3, .before = year)"
+"2","Error: Can't subset columns that don't exist.
+[31mx[39m Column `year` doesn't exist.
+[90mRun `rlang::last_error()` to see where the error occurred.[39m
+"

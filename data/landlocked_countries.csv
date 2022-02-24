@@ -1,0 +1,50 @@
+Country or Territory,Area(km2),Surrounding countries,Number of Surrounding Countries
+Afghanistan,"652,230","Iran, Turkmenistan, Uzbekistan, Tajikistan, China, Pakistan",6
+Andorra,468,"France, Spain",2
+Armenia,"29,743","Iran, Turkey, Georgia, Azerbaijan",4
+Austria,"83,871","Germany, Czech Republic, Slovakia, Hungary, Slovenia, Italy, Liechtenstein, Switzerland",8
+Azerbaijan,"86,600","Russia, Georgia, Armenia, Iran, Turkey",4
+Belarus,"207,600","Poland, Lithuania, Russia, Ukraine, Latvia",5
+Bhutan,"38,394","India, China",2
+Bolivia,"1,098,581","Peru, Brazil, Chile, Argentina, Paraguay",5
+Botswana,"582,000","Namibia, Zambia, Zimbabwe, South Africa",4
+Burkina Faso,"274,222","Mali, Niger, Benin, Togo, Ghana, Ivory Coast",6
+Burundi,"27,834","Rwanda, Tanzania, Democratic Republic of the Congo",3
+Central African Republic,"622,984","Chad, Cameroon, Congo, Democratic Republic of the Congo, Sudan, South Sudan",6
+Chad,"1,284,000","Libya, Niger, Sudan, Central African Republic, Nigeria, Cameroon",6
+Czech Republic,"78,867","Austria, Germany, Poland, Slovakia",4
+Ethiopia,"1,104,300","Djibouti, Eritrea, Kenya, Somalia, South Sudan, Sudan",6
+Hungary,"93,028","Austria, Croatia, Romania, Serbia, Slovakia, Slovenia, Ukraine",7
+Kazakhstan,"2,724,900","China, Kyrgyzstan, Russia, Turkmenistan, Uzbekistan",5
+Kosovo,"10,908","Albania, Macedonia, Montenegro, Serbia",4
+Kyrgyzstan,"199,951","China, Kazakhstan, Tajikistan, Uzbekistan",4
+Laos,"236,800","Myanmar, China, Vietnam, Cambodia, Thailand",5
+Lesotho,"30,355",South Africa,1
+Liechtenstein,160,"Switzerland, Austria",2
+Luxembourg,"2,586","Belgium, Germany, France",3
+Macedonia (F.Y.R.O.M.),"25,713","Kosovo, Serbia, Bulgaria, Greece, Albania",5
+Malawi,"118,484","Zambia, Tanzania, Mozambique",3
+Mali,"1,240,192","Algeria, Niger, Burkina Faso, Ivory Coast, Guinea, Senegal, Mauritania",7
+Moldova,"33,846","Romania, Ukraine",2
+Mongolia,"1,566,500","China, Russia",2
+Artsakh,"11,458","Armenia, Azerbaijan, Iran",3
+Nepal,"147,181","China, India",2
+Niger,"1,267,000","Libya, Chad, Nigeria, Benin, Burkina Faso, Mali, Algeria",7
+Paraguay,"406,752","Argentina, Brazil, Bolivia",3
+Rwanda,"26,338","Uganda, Tanzania, Burundi, Democratic Republic of the Congo",4
+San Marino,61,Italy,1
+Serbia,"88,361","Hungary, Romania, Bulgaria, Macedonia, Croatia, Bosnia and Herzegovina, Montenegro, Albania(viaKosovo and Metohija[c])",8
+Slovakia,"49,035","Austria, Czech Republic, Poland, Ukraine, Hungary",5
+South Ossetia,"3,900","Georgia, Russia",2
+South Sudan,"619,745","Sudan, Ethiopia, Kenya, Uganda, Democratic Republic of the Congo, Central African Republic",6
+Swaziland,"17,364","Mozambique, South Africa",2
+Switzerland,"41,284","France, Germany, Liechtenstein, Austria, Italy",5
+Tajikistan,"143,100","Afghanistan, Uzbekistan, Kyrgyzstan, China",4
+Transnistria,"4,163","Moldova, Ukraine",2
+Turkmenistan,"488,100","Kazakhstan, Uzbekistan, Afghanistan, Iran",4
+Uganda,"241,038","Kenya, South Sudan, Democratic Republic of the Congo, Rwanda, Tanzania",5
+Uzbekistan,"449,100","Kazakhstan, Tajikistan, Kyrgyzstan, Afghanistan, Turkmenistan",5
+Vatican City,0.44,Italy,1
+West Bank,"5,655","Israel, Jordan",2
+Zambia,"752,612","Democratic Republic of the Congo, Tanzania, Malawi, Mozambique, Zimbabwe, Botswana, Namibia, Angola",8
+Zimbabwe,"390,757","South Africa, Botswana, Zambia, Mozambique",4

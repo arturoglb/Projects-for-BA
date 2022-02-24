@@ -1,0 +1,3 @@
+"0",""
+"0","landlocked_countries <- read.csv(here::here(""data/landlocked_countries.csv""), header = TRUE, dec = ""."" )"
+"0","kable(landlocked_countries[1:5,], caption = ""Examples from the original table"") %>% kable_styling(bootstrap_options = ""bordered"")"

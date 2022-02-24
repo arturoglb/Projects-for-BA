@@ -1,0 +1,21 @@
+"0","hcmap("
+"0","  ""custom/world-robinson-lowres"", "
+"0","  data = mortality_rate_country_wide_1990,"
+"0","  name = ""Gross national income per capita"", "
+"0","  value = ""Total"","
+"0","  borderWidth = 0,"
+"0","  nullColor = ""#d3d3d3"","
+"0","  joinBy = c(""iso-a3"", ""Country.Code3"")"
+"0","  ) %>%"
+"0","  hc_colorAxis("
+"0","    stops = color_stops(colors = viridisLite::inferno(10, begin = 0.1)),"
+"0","    type = ""logarithmic"""
+"0","    ) "
+"2","trying URL 'https://code.highcharts.com/mapdata/custom/world-robinson-lowres.js'
+"
+"2","Content type 'text/javascript'"
+"2"," length 156625 bytes (152 KB)
+"
+"2","downloaded 152 KB
+
+"

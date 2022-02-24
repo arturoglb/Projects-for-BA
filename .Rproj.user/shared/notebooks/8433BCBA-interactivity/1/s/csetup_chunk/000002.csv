@@ -1,0 +1,6 @@
+"0","library(knitr)"
+"0","opts_chunk$set(fig.width = 6, "
+"0","               fig.asp = 0.618,"
+"0","               out.width = ""70%"","
+"0","               message = FALSE,"
+"0","               warning = FALSE)"

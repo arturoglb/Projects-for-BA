@@ -1,0 +1,7 @@
+"0",""
+"0","mortality_rate_country <- read.csv(here::here(""data/mortality_rate_countries.csv""), header = TRUE)"
+"0","mortality_rate_country <- select(mortality_rate_country, location, cause, year, val)"
+"0",""
+"0","kable(mortality_rate_country[1:100, ], caption = ""The original table (select only location, cause, year, and val)"") %>%"
+"0","  kable_styling(bootstrap_options = ""bordered"") %>%"
+"0","  kableExtra::scroll_box(width = ""100%"", height = ""250px"")"

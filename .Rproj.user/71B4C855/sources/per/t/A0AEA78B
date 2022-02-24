@@ -1,0 +1,27 @@
+{
+    "id": "A0AEA78B",
+    "path": "~/unil/data_science_for_business_analytics/project/dsfba_project/report/analysis.Rmd",
+    "project_path": "report/analysis.Rmd",
+    "type": "r_markdown",
+    "hash": "1145187159",
+    "contents": "",
+    "dirty": false,
+    "created": 1639818408243.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "561,0",
+        "scrollLine": "561",
+        "ignored_words": "Hemolytic,multicollinearity,stepwise\n"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1639837024,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1639843775916,
+    "read_only": false,
+    "read_only_alternatives": []
+}

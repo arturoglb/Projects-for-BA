@@ -1,0 +1,1145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<style>body{background-color:white;}</style>
+<script src="lib/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="lib/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
+<script src="lib/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="lib/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="lib/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="lib/kePrint-0.0.1/kePrint.js"></script>
+<link href="lib/lightable-0.0.1/lightable.css" rel="stylesheet" />
+
+</head>
+<body>
+<div style="border: 1px solid #ddd; padding: 0px; overflow-y: scroll; height:250px; overflow-x: scroll; width:100%; "><table class="table table-bordered" style="margin-left: auto; margin-right: auto;">
+<caption>The average monthly airquality table</caption>
+ <thead>
+  <tr>
+   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> month </th>
+   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> Country.Name </th>
+   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> Country.Code3 </th>
+   <th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;"> MonthlyAveragepm25 </th>
+   <th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;"> MonthlyAverageco </th>
+   <th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;"> MonthlyAveragepm10 </th>
+   <th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;"> MonthlyAverageo3 </th>
+   <th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;"> MonthlyAverageso2 </th>
+   <th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;"> MonthlyAverageno2 </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Afghanistan </td>
+   <td style="text-align:left;"> AFG </td>
+   <td style="text-align:right;"> 143.52 </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Algeria </td>
+   <td style="text-align:left;"> DZA </td>
+   <td style="text-align:right;"> 79.72 </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Argentina </td>
+   <td style="text-align:left;"> ARG </td>
+   <td style="text-align:right;"> 44.25 </td>
+   <td style="text-align:right;"> 2.412 </td>
+   <td style="text-align:right;"> 19.70 </td>
+   <td style="text-align:right;"> 12.82 </td>
+   <td style="text-align:right;"> 2.850 </td>
+   <td style="text-align:right;"> 7.11 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Australia </td>
+   <td style="text-align:left;"> AUS </td>
+   <td style="text-align:right;"> 29.86 </td>
+   <td style="text-align:right;"> 3.520 </td>
+   <td style="text-align:right;"> 19.15 </td>
+   <td style="text-align:right;"> 22.12 </td>
+   <td style="text-align:right;"> 3.320 </td>
+   <td style="text-align:right;"> 13.38 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Austria </td>
+   <td style="text-align:left;"> AUT </td>
+   <td style="text-align:right;"> 63.25 </td>
+   <td style="text-align:right;"> 0.100 </td>
+   <td style="text-align:right;"> 23.34 </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> 1.885 </td>
+   <td style="text-align:right;"> 18.46 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Bahrain </td>
+   <td style="text-align:left;"> BHR </td>
+   <td style="text-align:right;"> 115.34 </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Bangladesh </td>
+   <td style="text-align:left;"> BGD </td>
+   <td style="text-align:right;"> 236.45 </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Belgium </td>
+   <td style="text-align:left;"> BEL </td>
+   <td style="text-align:right;"> 49.74 </td>
+   <td style="text-align:right;"> 0.100 </td>
+   <td style="text-align:right;"> 18.21 </td>
+   <td style="text-align:right;"> 12.55 </td>
+   <td style="text-align:right;"> 2.151 </td>
+   <td style="text-align:right;"> 12.52 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Bolivia (Plurinational State of) </td>
+   <td style="text-align:left;"> BOL </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> 25.99 </td>
+   <td style="text-align:right;"> 9.05 </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> 6.63 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Bosnia and Herzegovina </td>
+   <td style="text-align:left;"> BIH </td>
+   <td style="text-align:right;"> 170.69 </td>
+   <td style="text-align:right;"> 3.866 </td>
+   <td style="text-align:right;"> 74.87 </td>
+   <td style="text-align:right;"> 8.34 </td>
+   <td style="text-align:right;"> 42.670 </td>
+   <td style="text-align:right;"> 14.49 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Brazil </td>
+   <td style="text-align:left;"> BRA </td>
+   <td style="text-align:right;"> 40.04 </td>
+   <td style="text-align:right;"> 3.624 </td>
+   <td style="text-align:right;"> 16.48 </td>
+   <td style="text-align:right;"> 15.74 </td>
+   <td style="text-align:right;"> 1.656 </td>
+   <td style="text-align:right;"> 9.19 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Bulgaria </td>
+   <td style="text-align:left;"> BGR </td>
+   <td style="text-align:right;"> 113.61 </td>
+   <td style="text-align:right;"> 0.125 </td>
+   <td style="text-align:right;"> 31.78 </td>
+   <td style="text-align:right;"> 11.45 </td>
+   <td style="text-align:right;"> 6.099 </td>
+   <td style="text-align:right;"> 13.77 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Canada </td>
+   <td style="text-align:left;"> CAN </td>
+   <td style="text-align:right;"> 28.69 </td>
+   <td style="text-align:right;"> 1.687 </td>
+   <td style="text-align:right;"> 7.12 </td>
+   <td style="text-align:right;"> 12.39 </td>
+   <td style="text-align:right;"> 3.752 </td>
+   <td style="text-align:right;"> 9.27 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Chile </td>
+   <td style="text-align:left;"> CHL </td>
+   <td style="text-align:right;"> 41.44 </td>
+   <td style="text-align:right;"> 7.289 </td>
+   <td style="text-align:right;"> 35.97 </td>
+   <td style="text-align:right;"> 12.56 </td>
+   <td style="text-align:right;"> 3.757 </td>
+   <td style="text-align:right;"> 5.83 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> China </td>
+   <td style="text-align:left;"> CHN </td>
+   <td style="text-align:right;"> 137.17 </td>
+   <td style="text-align:right;"> 11.527 </td>
+   <td style="text-align:right;"> 72.82 </td>
+   <td style="text-align:right;"> 15.11 </td>
+   <td style="text-align:right;"> 12.300 </td>
+   <td style="text-align:right;"> 20.87 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Colombia </td>
+   <td style="text-align:left;"> COL </td>
+   <td style="text-align:right;"> 70.91 </td>
+   <td style="text-align:right;"> 13.248 </td>
+   <td style="text-align:right;"> 35.75 </td>
+   <td style="text-align:right;"> 39.69 </td>
+   <td style="text-align:right;"> 0.780 </td>
+   <td style="text-align:right;"> 7.76 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Costa Rica </td>
+   <td style="text-align:left;"> CRI </td>
+   <td style="text-align:right;"> 26.69 </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Côte d'Ivoire </td>
+   <td style="text-align:left;"> CIV </td>
+   <td style="text-align:right;"> 107.00 </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Croatia </td>
+   <td style="text-align:left;"> HRV </td>
+   <td style="text-align:right;"> 42.33 </td>
+   <td style="text-align:right;"> 0.100 </td>
+   <td style="text-align:right;"> 22.50 </td>
+   <td style="text-align:right;"> 17.18 </td>
+   <td style="text-align:right;"> 2.365 </td>
+   <td style="text-align:right;"> 9.59 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Curaçao </td>
+   <td style="text-align:left;"> CUW </td>
+   <td style="text-align:right;"> 30.33 </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Cyprus </td>
+   <td style="text-align:left;"> CYP </td>
+   <td style="text-align:right;"> 59.23 </td>
+   <td style="text-align:right;"> 4.203 </td>
+   <td style="text-align:right;"> 28.88 </td>
+   <td style="text-align:right;"> 14.99 </td>
+   <td style="text-align:right;"> 1.396 </td>
+   <td style="text-align:right;"> 13.75 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Czechia </td>
+   <td style="text-align:left;"> CZE </td>
+   <td style="text-align:right;"> 78.52 </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> 28.11 </td>
+   <td style="text-align:right;"> 12.58 </td>
+   <td style="text-align:right;"> 3.508 </td>
+   <td style="text-align:right;"> 12.34 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Denmark </td>
+   <td style="text-align:left;"> DNK </td>
+   <td style="text-align:right;"> 41.12 </td>
+   <td style="text-align:right;"> 2.483 </td>
+   <td style="text-align:right;"> 18.21 </td>
+   <td style="text-align:right;"> 16.22 </td>
+   <td style="text-align:right;"> 0.846 </td>
+   <td style="text-align:right;"> 9.42 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Ecuador </td>
+   <td style="text-align:left;"> ECU </td>
+   <td style="text-align:right;"> 54.26 </td>
+   <td style="text-align:right;"> 6.000 </td>
+   <td style="text-align:right;"> 28.97 </td>
+   <td style="text-align:right;"> 13.90 </td>
+   <td style="text-align:right;"> 3.687 </td>
+   <td style="text-align:right;"> 20.28 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> El Salvador </td>
+   <td style="text-align:left;"> SLV </td>
+   <td style="text-align:right;"> 76.09 </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Estonia </td>
+   <td style="text-align:left;"> EST </td>
+   <td style="text-align:right;"> 24.88 </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> 8.46 </td>
+   <td style="text-align:right;"> 18.30 </td>
+   <td style="text-align:right;"> 0.262 </td>
+   <td style="text-align:right;"> 5.71 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Ethiopia </td>
+   <td style="text-align:left;"> ETH </td>
+   <td style="text-align:right;"> 63.47 </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Finland </td>
+   <td style="text-align:left;"> FIN </td>
+   <td style="text-align:right;"> 25.63 </td>
+   <td style="text-align:right;"> 1.200 </td>
+   <td style="text-align:right;"> 8.32 </td>
+   <td style="text-align:right;"> 17.49 </td>
+   <td style="text-align:right;"> 0.815 </td>
+   <td style="text-align:right;"> 8.38 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> France </td>
+   <td style="text-align:left;"> FRA </td>
+   <td style="text-align:right;"> 50.15 </td>
+   <td style="text-align:right;"> 1.593 </td>
+   <td style="text-align:right;"> 17.97 </td>
+   <td style="text-align:right;"> 14.93 </td>
+   <td style="text-align:right;"> 1.144 </td>
+   <td style="text-align:right;"> 12.29 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Georgia </td>
+   <td style="text-align:left;"> GEO </td>
+   <td style="text-align:right;"> 71.90 </td>
+   <td style="text-align:right;"> 5.708 </td>
+   <td style="text-align:right;"> 32.51 </td>
+   <td style="text-align:right;"> 9.45 </td>
+   <td style="text-align:right;"> 1.541 </td>
+   <td style="text-align:right;"> 12.63 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Germany </td>
+   <td style="text-align:left;"> DEU </td>
+   <td style="text-align:right;"> 50.26 </td>
+   <td style="text-align:right;"> 0.220 </td>
+   <td style="text-align:right;"> 19.24 </td>
+   <td style="text-align:right;"> 13.03 </td>
+   <td style="text-align:right;"> 4.921 </td>
+   <td style="text-align:right;"> 14.08 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Ghana </td>
+   <td style="text-align:left;"> GHA </td>
+   <td style="text-align:right;"> 119.33 </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Greece </td>
+   <td style="text-align:left;"> GRC </td>
+   <td style="text-align:right;"> 59.74 </td>
+   <td style="text-align:right;"> 0.100 </td>
+   <td style="text-align:right;"> 23.55 </td>
+   <td style="text-align:right;"> 21.32 </td>
+   <td style="text-align:right;"> 4.178 </td>
+   <td style="text-align:right;"> 11.94 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Guatemala </td>
+   <td style="text-align:left;"> GTM </td>
+   <td style="text-align:right;"> 53.81 </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Guinea </td>
+   <td style="text-align:left;"> GIN </td>
+   <td style="text-align:right;"> 80.33 </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Hong Kong </td>
+   <td style="text-align:left;"> HKG </td>
+   <td style="text-align:right;"> 85.61 </td>
+   <td style="text-align:right;"> 7.827 </td>
+   <td style="text-align:right;"> 37.82 </td>
+   <td style="text-align:right;"> 17.23 </td>
+   <td style="text-align:right;"> 3.158 </td>
+   <td style="text-align:right;"> 24.54 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Hungary </td>
+   <td style="text-align:left;"> HUN </td>
+   <td style="text-align:right;"> 74.09 </td>
+   <td style="text-align:right;"> 6.940 </td>
+   <td style="text-align:right;"> 32.29 </td>
+   <td style="text-align:right;"> 10.88 </td>
+   <td style="text-align:right;"> 3.411 </td>
+   <td style="text-align:right;"> 11.97 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Iceland </td>
+   <td style="text-align:left;"> ISL </td>
+   <td style="text-align:right;"> 16.04 </td>
+   <td style="text-align:right;"> 0.100 </td>
+   <td style="text-align:right;"> 7.06 </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> 1.547 </td>
+   <td style="text-align:right;"> 5.81 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> India </td>
+   <td style="text-align:left;"> IND </td>
+   <td style="text-align:right;"> 179.66 </td>
+   <td style="text-align:right;"> 10.208 </td>
+   <td style="text-align:right;"> 113.25 </td>
+   <td style="text-align:right;"> 12.11 </td>
+   <td style="text-align:right;"> 6.383 </td>
+   <td style="text-align:right;"> 15.94 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Indonesia </td>
+   <td style="text-align:left;"> IDN </td>
+   <td style="text-align:right;"> 75.33 </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> 33.07 </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Iran (Islamic Republic of) </td>
+   <td style="text-align:left;"> IRN </td>
+   <td style="text-align:right;"> 70.23 </td>
+   <td style="text-align:right;"> 23.960 </td>
+   <td style="text-align:right;"> 44.75 </td>
+   <td style="text-align:right;"> 8.14 </td>
+   <td style="text-align:right;"> 15.938 </td>
+   <td style="text-align:right;"> 38.95 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Iraq </td>
+   <td style="text-align:left;"> IRQ </td>
+   <td style="text-align:right;"> 124.00 </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Ireland </td>
+   <td style="text-align:left;"> IRL </td>
+   <td style="text-align:right;"> 31.34 </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> 10.78 </td>
+   <td style="text-align:right;"> 23.93 </td>
+   <td style="text-align:right;"> 0.627 </td>
+   <td style="text-align:right;"> 8.75 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Israel </td>
+   <td style="text-align:left;"> ISR </td>
+   <td style="text-align:right;"> 63.57 </td>
+   <td style="text-align:right;"> 21.459 </td>
+   <td style="text-align:right;"> 39.22 </td>
+   <td style="text-align:right;"> 22.50 </td>
+   <td style="text-align:right;"> 1.962 </td>
+   <td style="text-align:right;"> 11.35 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Italy </td>
+   <td style="text-align:left;"> ITA </td>
+   <td style="text-align:right;"> 95.55 </td>
+   <td style="text-align:right;"> 0.297 </td>
+   <td style="text-align:right;"> 33.19 </td>
+   <td style="text-align:right;"> 10.94 </td>
+   <td style="text-align:right;"> 1.938 </td>
+   <td style="text-align:right;"> 28.41 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Japan </td>
+   <td style="text-align:left;"> JPN </td>
+   <td style="text-align:right;"> 39.56 </td>
+   <td style="text-align:right;"> 4.181 </td>
+   <td style="text-align:right;"> 11.61 </td>
+   <td style="text-align:right;"> 21.43 </td>
+   <td style="text-align:right;"> 2.991 </td>
+   <td style="text-align:right;"> 10.29 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Jordan </td>
+   <td style="text-align:left;"> JOR </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> 22.280 </td>
+   <td style="text-align:right;"> 31.95 </td>
+   <td style="text-align:right;"> 14.77 </td>
+   <td style="text-align:right;"> 3.444 </td>
+   <td style="text-align:right;"> 10.48 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Kazakhstan </td>
+   <td style="text-align:left;"> KAZ </td>
+   <td style="text-align:right;"> 84.51 </td>
+   <td style="text-align:right;"> 14.283 </td>
+   <td style="text-align:right;"> 100.17 </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> 12.200 </td>
+   <td style="text-align:right;"> 0.50 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Korea (the Republic of) </td>
+   <td style="text-align:left;"> KOR </td>
+   <td style="text-align:right;"> 84.13 </td>
+   <td style="text-align:right;"> 6.856 </td>
+   <td style="text-align:right;"> 40.94 </td>
+   <td style="text-align:right;"> 14.96 </td>
+   <td style="text-align:right;"> 6.591 </td>
+   <td style="text-align:right;"> 21.14 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Kuwait </td>
+   <td style="text-align:left;"> KWT </td>
+   <td style="text-align:right;"> 107.48 </td>
+   <td style="text-align:right;"> 18.367 </td>
+   <td style="text-align:right;"> 63.67 </td>
+   <td style="text-align:right;"> 3.00 </td>
+   <td style="text-align:right;"> 6.700 </td>
+   <td style="text-align:right;"> 20.07 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Kyrgyzstan </td>
+   <td style="text-align:left;"> KGZ </td>
+   <td style="text-align:right;"> 133.45 </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Lao People's Democratic Republic (the) </td>
+   <td style="text-align:left;"> LAO </td>
+   <td style="text-align:right;"> 98.97 </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Lithuania </td>
+   <td style="text-align:left;"> LTU </td>
+   <td style="text-align:right;"> 53.09 </td>
+   <td style="text-align:right;"> 0.100 </td>
+   <td style="text-align:right;"> 21.74 </td>
+   <td style="text-align:right;"> 15.24 </td>
+   <td style="text-align:right;"> 1.768 </td>
+   <td style="text-align:right;"> NA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Macao </td>
+   <td style="text-align:left;"> MAC </td>
+   <td style="text-align:right;"> 97.58 </td>
+   <td style="text-align:right;"> 7.278 </td>
+   <td style="text-align:right;"> 47.97 </td>
+   <td style="text-align:right;"> 16.20 </td>
+   <td style="text-align:right;"> 3.105 </td>
+   <td style="text-align:right;"> 23.31 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Mali </td>
+   <td style="text-align:left;"> MLI </td>
+   <td style="text-align:right;"> 178.95 </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Mexico </td>
+   <td style="text-align:left;"> MEX </td>
+   <td style="text-align:right;"> 72.97 </td>
+   <td style="text-align:right;"> 10.170 </td>
+   <td style="text-align:right;"> 48.63 </td>
+   <td style="text-align:right;"> 17.97 </td>
+   <td style="text-align:right;"> 9.430 </td>
+   <td style="text-align:right;"> 18.18 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Mongolia </td>
+   <td style="text-align:left;"> MNG </td>
+   <td style="text-align:right;"> 214.96 </td>
+   <td style="text-align:right;"> 11.940 </td>
+   <td style="text-align:right;"> 106.35 </td>
+   <td style="text-align:right;"> 5.04 </td>
+   <td style="text-align:right;"> 31.413 </td>
+   <td style="text-align:right;"> 24.47 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Myanmar </td>
+   <td style="text-align:left;"> MMR </td>
+   <td style="text-align:right;"> 127.85 </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> 2.77 </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Nepal </td>
+   <td style="text-align:left;"> NPL </td>
+   <td style="text-align:right;"> 152.53 </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> 57.32 </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Netherlands (the) </td>
+   <td style="text-align:left;"> NLD </td>
+   <td style="text-align:right;"> 48.29 </td>
+   <td style="text-align:right;"> 2.696 </td>
+   <td style="text-align:right;"> 20.27 </td>
+   <td style="text-align:right;"> 13.36 </td>
+   <td style="text-align:right;"> 0.932 </td>
+   <td style="text-align:right;"> 12.56 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> New Zealand </td>
+   <td style="text-align:left;"> NZL </td>
+   <td style="text-align:right;"> 25.11 </td>
+   <td style="text-align:right;"> 2.099 </td>
+   <td style="text-align:right;"> 12.23 </td>
+   <td style="text-align:right;"> 12.28 </td>
+   <td style="text-align:right;"> 1.855 </td>
+   <td style="text-align:right;"> 1.34 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Norway </td>
+   <td style="text-align:left;"> NOR </td>
+   <td style="text-align:right;"> 31.78 </td>
+   <td style="text-align:right;"> 0.100 </td>
+   <td style="text-align:right;"> 12.14 </td>
+   <td style="text-align:right;"> 16.77 </td>
+   <td style="text-align:right;"> 0.878 </td>
+   <td style="text-align:right;"> 14.67 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Pakistan </td>
+   <td style="text-align:left;"> PAK </td>
+   <td style="text-align:right;"> 179.97 </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Peru </td>
+   <td style="text-align:left;"> PER </td>
+   <td style="text-align:right;"> 61.76 </td>
+   <td style="text-align:right;"> 9.164 </td>
+   <td style="text-align:right;"> 48.40 </td>
+   <td style="text-align:right;"> 3.97 </td>
+   <td style="text-align:right;"> 9.162 </td>
+   <td style="text-align:right;"> 9.34 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Philippines (the) </td>
+   <td style="text-align:left;"> PHL </td>
+   <td style="text-align:right;"> 60.76 </td>
+   <td style="text-align:right;"> 18.037 </td>
+   <td style="text-align:right;"> 23.50 </td>
+   <td style="text-align:right;"> 32.04 </td>
+   <td style="text-align:right;"> 7.228 </td>
+   <td style="text-align:right;"> 9.25 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Poland </td>
+   <td style="text-align:left;"> POL </td>
+   <td style="text-align:right;"> 91.57 </td>
+   <td style="text-align:right;"> 4.745 </td>
+   <td style="text-align:right;"> 35.68 </td>
+   <td style="text-align:right;"> 12.79 </td>
+   <td style="text-align:right;"> 5.836 </td>
+   <td style="text-align:right;"> 11.30 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Portugal </td>
+   <td style="text-align:left;"> PRT </td>
+   <td style="text-align:right;"> 41.52 </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> 18.29 </td>
+   <td style="text-align:right;"> 20.99 </td>
+   <td style="text-align:right;"> 1.085 </td>
+   <td style="text-align:right;"> 12.43 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Puerto Rico </td>
+   <td style="text-align:left;"> PRI </td>
+   <td style="text-align:right;"> 37.32 </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Republic of North Macedonia </td>
+   <td style="text-align:left;"> MKD </td>
+   <td style="text-align:right;"> 134.20 </td>
+   <td style="text-align:right;"> 4.484 </td>
+   <td style="text-align:right;"> 75.29 </td>
+   <td style="text-align:right;"> 5.82 </td>
+   <td style="text-align:right;"> 1.889 </td>
+   <td style="text-align:right;"> 9.77 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Réunion </td>
+   <td style="text-align:left;"> REU </td>
+   <td style="text-align:right;"> 26.78 </td>
+   <td style="text-align:right;"> 0.100 </td>
+   <td style="text-align:right;"> 11.36 </td>
+   <td style="text-align:right;"> 9.80 </td>
+   <td style="text-align:right;"> 0.816 </td>
+   <td style="text-align:right;"> 2.72 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Romania </td>
+   <td style="text-align:left;"> ROU </td>
+   <td style="text-align:right;"> 64.74 </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> 27.76 </td>
+   <td style="text-align:right;"> 12.76 </td>
+   <td style="text-align:right;"> 4.323 </td>
+   <td style="text-align:right;"> 12.32 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Russian Federation (the) </td>
+   <td style="text-align:left;"> RUS </td>
+   <td style="text-align:right;"> 39.08 </td>
+   <td style="text-align:right;"> 3.283 </td>
+   <td style="text-align:right;"> 12.54 </td>
+   <td style="text-align:right;"> 10.07 </td>
+   <td style="text-align:right;"> 1.629 </td>
+   <td style="text-align:right;"> 15.38 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Saudi Arabia </td>
+   <td style="text-align:left;"> SAU </td>
+   <td style="text-align:right;"> 83.27 </td>
+   <td style="text-align:right;"> 9.870 </td>
+   <td style="text-align:right;"> 14.59 </td>
+   <td style="text-align:right;"> 23.87 </td>
+   <td style="text-align:right;"> 3.056 </td>
+   <td style="text-align:right;"> 5.17 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Serbia </td>
+   <td style="text-align:left;"> SRB </td>
+   <td style="text-align:right;"> 121.44 </td>
+   <td style="text-align:right;"> 9.210 </td>
+   <td style="text-align:right;"> 48.01 </td>
+   <td style="text-align:right;"> 10.13 </td>
+   <td style="text-align:right;"> 8.703 </td>
+   <td style="text-align:right;"> 13.41 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Singapore </td>
+   <td style="text-align:left;"> SGP </td>
+   <td style="text-align:right;"> 42.74 </td>
+   <td style="text-align:right;"> 4.484 </td>
+   <td style="text-align:right;"> 22.86 </td>
+   <td style="text-align:right;"> 11.70 </td>
+   <td style="text-align:right;"> 2.584 </td>
+   <td style="text-align:right;"> 8.91 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Slovakia </td>
+   <td style="text-align:left;"> SVK </td>
+   <td style="text-align:right;"> 85.95 </td>
+   <td style="text-align:right;"> 8.891 </td>
+   <td style="text-align:right;"> 30.86 </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> 3.718 </td>
+   <td style="text-align:right;"> 13.98 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> South Africa </td>
+   <td style="text-align:left;"> ZAF </td>
+   <td style="text-align:right;"> 39.54 </td>
+   <td style="text-align:right;"> 4.537 </td>
+   <td style="text-align:right;"> 20.72 </td>
+   <td style="text-align:right;"> 8.74 </td>
+   <td style="text-align:right;"> 1.772 </td>
+   <td style="text-align:right;"> 3.29 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Spain </td>
+   <td style="text-align:left;"> ESP </td>
+   <td style="text-align:right;"> 36.51 </td>
+   <td style="text-align:right;"> 1.140 </td>
+   <td style="text-align:right;"> 17.54 </td>
+   <td style="text-align:right;"> 16.00 </td>
+   <td style="text-align:right;"> 2.578 </td>
+   <td style="text-align:right;"> 11.22 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Sri Lanka </td>
+   <td style="text-align:left;"> LKA </td>
+   <td style="text-align:right;"> 108.11 </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Sweden </td>
+   <td style="text-align:left;"> SWE </td>
+   <td style="text-align:right;"> 27.43 </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> 11.72 </td>
+   <td style="text-align:right;"> 18.35 </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> 11.40 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Switzerland </td>
+   <td style="text-align:left;"> CHE </td>
+   <td style="text-align:right;"> 3.18 </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> 15.70 </td>
+   <td style="text-align:right;"> 11.61 </td>
+   <td style="text-align:right;"> 3.985 </td>
+   <td style="text-align:right;"> 14.75 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Taiwan (Province of China) </td>
+   <td style="text-align:left;"> TWN </td>
+   <td style="text-align:right;"> 71.37 </td>
+   <td style="text-align:right;"> 4.892 </td>
+   <td style="text-align:right;"> 39.26 </td>
+   <td style="text-align:right;"> 21.91 </td>
+   <td style="text-align:right;"> 3.763 </td>
+   <td style="text-align:right;"> 13.14 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Tajikistan </td>
+   <td style="text-align:left;"> TJK </td>
+   <td style="text-align:right;"> 145.49 </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Thailand </td>
+   <td style="text-align:left;"> THA </td>
+   <td style="text-align:right;"> 99.07 </td>
+   <td style="text-align:right;"> 2.983 </td>
+   <td style="text-align:right;"> 47.29 </td>
+   <td style="text-align:right;"> 13.36 </td>
+   <td style="text-align:right;"> 3.175 </td>
+   <td style="text-align:right;"> 10.21 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Turkey </td>
+   <td style="text-align:left;"> TUR </td>
+   <td style="text-align:right;"> 90.01 </td>
+   <td style="text-align:right;"> 9.747 </td>
+   <td style="text-align:right;"> 45.76 </td>
+   <td style="text-align:right;"> 10.83 </td>
+   <td style="text-align:right;"> 9.585 </td>
+   <td style="text-align:right;"> 21.44 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Turkmenistan </td>
+   <td style="text-align:left;"> TKM </td>
+   <td style="text-align:right;"> 71.50 </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Uganda </td>
+   <td style="text-align:left;"> UGA </td>
+   <td style="text-align:right;"> 151.01 </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Ukraine </td>
+   <td style="text-align:left;"> UKR </td>
+   <td style="text-align:right;"> 61.66 </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> 33.06 </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> United Arab Emirates (the) </td>
+   <td style="text-align:left;"> ARE </td>
+   <td style="text-align:right;"> 85.60 </td>
+   <td style="text-align:right;"> 0.100 </td>
+   <td style="text-align:right;"> 72.49 </td>
+   <td style="text-align:right;"> 26.00 </td>
+   <td style="text-align:right;"> 3.878 </td>
+   <td style="text-align:right;"> 13.93 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> United Kingdom of Great Britain and Northern Ireland (the) </td>
+   <td style="text-align:left;"> GBR </td>
+   <td style="text-align:right;"> 38.81 </td>
+   <td style="text-align:right;"> 4.532 </td>
+   <td style="text-align:right;"> 14.57 </td>
+   <td style="text-align:right;"> 15.46 </td>
+   <td style="text-align:right;"> 2.886 </td>
+   <td style="text-align:right;"> 13.23 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> United States of America (the) </td>
+   <td style="text-align:left;"> USA </td>
+   <td style="text-align:right;"> 34.38 </td>
+   <td style="text-align:right;"> 3.623 </td>
+   <td style="text-align:right;"> 15.79 </td>
+   <td style="text-align:right;"> 15.00 </td>
+   <td style="text-align:right;"> 1.524 </td>
+   <td style="text-align:right;"> 12.31 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Uzbekistan </td>
+   <td style="text-align:left;"> UZB </td>
+   <td style="text-align:right;"> 103.19 </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 01 </td>
+   <td style="text-align:left;"> Viet Nam </td>
+   <td style="text-align:left;"> VNM </td>
+   <td style="text-align:right;"> 99.11 </td>
+   <td style="text-align:right;"> 15.939 </td>
+   <td style="text-align:right;"> 33.85 </td>
+   <td style="text-align:right;"> 9.85 </td>
+   <td style="text-align:right;"> 32.882 </td>
+   <td style="text-align:right;"> 11.38 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 02 </td>
+   <td style="text-align:left;"> Afghanistan </td>
+   <td style="text-align:left;"> AFG </td>
+   <td style="text-align:right;"> 123.21 </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 02 </td>
+   <td style="text-align:left;"> Algeria </td>
+   <td style="text-align:left;"> DZA </td>
+   <td style="text-align:right;"> 79.52 </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 02 </td>
+   <td style="text-align:left;"> Argentina </td>
+   <td style="text-align:left;"> ARG </td>
+   <td style="text-align:right;"> 43.03 </td>
+   <td style="text-align:right;"> 2.278 </td>
+   <td style="text-align:right;"> 18.54 </td>
+   <td style="text-align:right;"> 10.72 </td>
+   <td style="text-align:right;"> 4.586 </td>
+   <td style="text-align:right;"> 6.83 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 02 </td>
+   <td style="text-align:left;"> Australia </td>
+   <td style="text-align:left;"> AUS </td>
+   <td style="text-align:right;"> 20.43 </td>
+   <td style="text-align:right;"> 2.844 </td>
+   <td style="text-align:right;"> 14.95 </td>
+   <td style="text-align:right;"> 20.39 </td>
+   <td style="text-align:right;"> 4.686 </td>
+   <td style="text-align:right;"> 13.45 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 02 </td>
+   <td style="text-align:left;"> Austria </td>
+   <td style="text-align:left;"> AUT </td>
+   <td style="text-align:right;"> 62.58 </td>
+   <td style="text-align:right;"> 0.100 </td>
+   <td style="text-align:right;"> 22.30 </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> 1.808 </td>
+   <td style="text-align:right;"> 16.84 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 02 </td>
+   <td style="text-align:left;"> Bahrain </td>
+   <td style="text-align:left;"> BHR </td>
+   <td style="text-align:right;"> 122.43 </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 02 </td>
+   <td style="text-align:left;"> Bangladesh </td>
+   <td style="text-align:left;"> BGD </td>
+   <td style="text-align:right;"> 209.52 </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+  </tr>
+</tbody>
+</table></div> <script type="text/x-mathjax-config">MathJax.Hub.Config({tex2jax: {inlineMath: [["$","$"]]}})</script><script async src="https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+</body>
+</html>

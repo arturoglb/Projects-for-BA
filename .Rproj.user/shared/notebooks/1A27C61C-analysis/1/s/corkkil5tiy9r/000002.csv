@@ -1,0 +1,4 @@
+"0",""
+"0","explore <- subset(Q2.3_2016, select = c(""PM2.5"", ""CO"", ""PM10"", ""O3"", ""SO2"", ""NO2"", ""GDP""))"
+"0","pairs.panels(explore, lm = TRUE, cor = TRUE)"
+"0",""

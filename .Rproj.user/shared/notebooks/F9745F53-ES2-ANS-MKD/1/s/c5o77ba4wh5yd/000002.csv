@@ -1,0 +1,2 @@
+"0","Square.meters <- data2[,3]/10.7639"
+"0","data2 <- mutate(data2, Square.meters)"

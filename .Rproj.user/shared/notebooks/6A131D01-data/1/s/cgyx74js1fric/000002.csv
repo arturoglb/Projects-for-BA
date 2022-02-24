@@ -1,0 +1,6 @@
+"0","iso_country_codes <- read.csv(here::here(""data/iso_country_codes.csv""), "
+"0","                              header = TRUE)"
+"0",""
+"0","kable(iso_country_codes[, ], caption = ""The original iso_country_codes table"") %>%"
+"0","  kable_styling(bootstrap_options = ""bordered"") %>%"
+"0","  kableExtra::scroll_box(width = ""100%"", height = ""250px"")"

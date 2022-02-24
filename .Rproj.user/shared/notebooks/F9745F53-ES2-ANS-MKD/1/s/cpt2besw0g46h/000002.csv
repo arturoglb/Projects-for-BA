@@ -1,0 +1,2 @@
+"0","plot(data$Age, data$PurchaseVol, main=""Scatterplot"","
+"0","  xlab=""Customer age"", ylab=""Average monthly purchases"")"

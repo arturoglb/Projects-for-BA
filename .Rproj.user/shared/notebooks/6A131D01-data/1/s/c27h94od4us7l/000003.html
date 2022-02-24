@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<style>body{background-color:white;}</style>
+<script src="lib/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="lib/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
+<script src="lib/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="lib/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="lib/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="lib/kePrint-0.0.1/kePrint.js"></script>
+<link href="lib/lightable-0.0.1/lightable.css" rel="stylesheet" />
+
+</head>
+<body>
+<div style="border: 1px solid #ddd; padding: 0px; overflow-y: scroll; height:250px; overflow-x: scroll; width:100%; "><table class="table table-bordered" style="margin-left: auto; margin-right: auto;">
+<caption>The original landlocked country table</caption>
+ <thead>
+  <tr>
+   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> Country.or.Territory </th>
+   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> Area.km2. </th>
+   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> Surrounding.countries </th>
+   <th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;"> Number.of.Surrounding.Countries </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> Afghanistan </td>
+   <td style="text-align:left;"> 652,230 </td>
+   <td style="text-align:left;"> Iran, Turkmenistan, Uzbekistan, Tajikistan, China, Pakistan </td>
+   <td style="text-align:right;"> 6 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Andorra </td>
+   <td style="text-align:left;"> 468 </td>
+   <td style="text-align:left;"> France, Spain </td>
+   <td style="text-align:right;"> 2 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Armenia </td>
+   <td style="text-align:left;"> 29,743 </td>
+   <td style="text-align:left;"> Iran, Turkey, Georgia, Azerbaijan </td>
+   <td style="text-align:right;"> 4 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Austria </td>
+   <td style="text-align:left;"> 83,871 </td>
+   <td style="text-align:left;"> Germany, Czech Republic, Slovakia, Hungary, Slovenia, Italy, Liechtenstein, Switzerland </td>
+   <td style="text-align:right;"> 8 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Azerbaijan </td>
+   <td style="text-align:left;"> 86,600 </td>
+   <td style="text-align:left;"> Russia, Georgia, Armenia, Iran, Turkey </td>
+   <td style="text-align:right;"> 4 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Belarus </td>
+   <td style="text-align:left;"> 207,600 </td>
+   <td style="text-align:left;"> Poland, Lithuania, Russia, Ukraine, Latvia </td>
+   <td style="text-align:right;"> 5 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Bhutan </td>
+   <td style="text-align:left;"> 38,394 </td>
+   <td style="text-align:left;"> India, China </td>
+   <td style="text-align:right;"> 2 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Bolivia </td>
+   <td style="text-align:left;"> 1,098,581 </td>
+   <td style="text-align:left;"> Peru, Brazil, Chile, Argentina, Paraguay </td>
+   <td style="text-align:right;"> 5 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Botswana </td>
+   <td style="text-align:left;"> 582,000 </td>
+   <td style="text-align:left;"> Namibia, Zambia, Zimbabwe, South Africa </td>
+   <td style="text-align:right;"> 4 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Burkina Faso </td>
+   <td style="text-align:left;"> 274,222 </td>
+   <td style="text-align:left;"> Mali, Niger, Benin, Togo, Ghana, Ivory Coast </td>
+   <td style="text-align:right;"> 6 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Burundi </td>
+   <td style="text-align:left;"> 27,834 </td>
+   <td style="text-align:left;"> Rwanda, Tanzania, Democratic Republic of the Congo </td>
+   <td style="text-align:right;"> 3 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Central African Republic </td>
+   <td style="text-align:left;"> 622,984 </td>
+   <td style="text-align:left;"> Chad, Cameroon, Congo, Democratic Republic of the Congo, Sudan, South Sudan </td>
+   <td style="text-align:right;"> 6 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Chad </td>
+   <td style="text-align:left;"> 1,284,000 </td>
+   <td style="text-align:left;"> Libya, Niger, Sudan, Central African Republic, Nigeria, Cameroon </td>
+   <td style="text-align:right;"> 6 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Czech Republic </td>
+   <td style="text-align:left;"> 78,867 </td>
+   <td style="text-align:left;"> Austria, Germany, Poland, Slovakia </td>
+   <td style="text-align:right;"> 4 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Ethiopia </td>
+   <td style="text-align:left;"> 1,104,300 </td>
+   <td style="text-align:left;"> Djibouti, Eritrea, Kenya, Somalia, South Sudan, Sudan </td>
+   <td style="text-align:right;"> 6 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Hungary </td>
+   <td style="text-align:left;"> 93,028 </td>
+   <td style="text-align:left;"> Austria, Croatia, Romania, Serbia, Slovakia, Slovenia, Ukraine </td>
+   <td style="text-align:right;"> 7 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Kazakhstan </td>
+   <td style="text-align:left;"> 2,724,900 </td>
+   <td style="text-align:left;"> China, Kyrgyzstan, Russia, Turkmenistan, Uzbekistan </td>
+   <td style="text-align:right;"> 5 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Kosovo </td>
+   <td style="text-align:left;"> 10,908 </td>
+   <td style="text-align:left;"> Albania, Macedonia, Montenegro, Serbia </td>
+   <td style="text-align:right;"> 4 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Kyrgyzstan </td>
+   <td style="text-align:left;"> 199,951 </td>
+   <td style="text-align:left;"> China, Kazakhstan, Tajikistan, Uzbekistan </td>
+   <td style="text-align:right;"> 4 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Laos </td>
+   <td style="text-align:left;"> 236,800 </td>
+   <td style="text-align:left;"> Myanmar, China, Vietnam, Cambodia, Thailand </td>
+   <td style="text-align:right;"> 5 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Lesotho </td>
+   <td style="text-align:left;"> 30,355 </td>
+   <td style="text-align:left;"> South Africa </td>
+   <td style="text-align:right;"> 1 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Liechtenstein </td>
+   <td style="text-align:left;"> 160 </td>
+   <td style="text-align:left;"> Switzerland, Austria </td>
+   <td style="text-align:right;"> 2 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Luxembourg </td>
+   <td style="text-align:left;"> 2,586 </td>
+   <td style="text-align:left;"> Belgium, Germany, France </td>
+   <td style="text-align:right;"> 3 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Macedonia (F.Y.R.O.M.) </td>
+   <td style="text-align:left;"> 25,713 </td>
+   <td style="text-align:left;"> Kosovo, Serbia, Bulgaria, Greece, Albania </td>
+   <td style="text-align:right;"> 5 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Malawi </td>
+   <td style="text-align:left;"> 118,484 </td>
+   <td style="text-align:left;"> Zambia, Tanzania, Mozambique </td>
+   <td style="text-align:right;"> 3 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Mali </td>
+   <td style="text-align:left;"> 1,240,192 </td>
+   <td style="text-align:left;"> Algeria, Niger, Burkina Faso, Ivory Coast, Guinea, Senegal, Mauritania </td>
+   <td style="text-align:right;"> 7 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Moldova </td>
+   <td style="text-align:left;"> 33,846 </td>
+   <td style="text-align:left;"> Romania, Ukraine </td>
+   <td style="text-align:right;"> 2 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Mongolia </td>
+   <td style="text-align:left;"> 1,566,500 </td>
+   <td style="text-align:left;"> China, Russia </td>
+   <td style="text-align:right;"> 2 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Artsakh </td>
+   <td style="text-align:left;"> 11,458 </td>
+   <td style="text-align:left;"> Armenia, Azerbaijan, Iran </td>
+   <td style="text-align:right;"> 3 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Nepal </td>
+   <td style="text-align:left;"> 147,181 </td>
+   <td style="text-align:left;"> China, India </td>
+   <td style="text-align:right;"> 2 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Niger </td>
+   <td style="text-align:left;"> 1,267,000 </td>
+   <td style="text-align:left;"> Libya, Chad, Nigeria, Benin, Burkina Faso, Mali, Algeria </td>
+   <td style="text-align:right;"> 7 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Paraguay </td>
+   <td style="text-align:left;"> 406,752 </td>
+   <td style="text-align:left;"> Argentina, Brazil, Bolivia </td>
+   <td style="text-align:right;"> 3 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Rwanda </td>
+   <td style="text-align:left;"> 26,338 </td>
+   <td style="text-align:left;"> Uganda, Tanzania, Burundi, Democratic Republic of the Congo </td>
+   <td style="text-align:right;"> 4 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> San Marino </td>
+   <td style="text-align:left;"> 61 </td>
+   <td style="text-align:left;"> Italy </td>
+   <td style="text-align:right;"> 1 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Serbia </td>
+   <td style="text-align:left;"> 88,361 </td>
+   <td style="text-align:left;"> Hungary, Romania, Bulgaria, Macedonia, Croatia, Bosnia and Herzegovina, Montenegro, Albania(viaKosovo and Metohija[c]) </td>
+   <td style="text-align:right;"> 8 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Slovakia </td>
+   <td style="text-align:left;"> 49,035 </td>
+   <td style="text-align:left;"> Austria, Czech Republic, Poland, Ukraine, Hungary </td>
+   <td style="text-align:right;"> 5 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> South Ossetia </td>
+   <td style="text-align:left;"> 3,900 </td>
+   <td style="text-align:left;"> Georgia, Russia </td>
+   <td style="text-align:right;"> 2 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> South Sudan </td>
+   <td style="text-align:left;"> 619,745 </td>
+   <td style="text-align:left;"> Sudan, Ethiopia, Kenya, Uganda, Democratic Republic of the Congo, Central African Republic </td>
+   <td style="text-align:right;"> 6 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Swaziland </td>
+   <td style="text-align:left;"> 17,364 </td>
+   <td style="text-align:left;"> Mozambique, South Africa </td>
+   <td style="text-align:right;"> 2 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Switzerland </td>
+   <td style="text-align:left;"> 41,284 </td>
+   <td style="text-align:left;"> France, Germany, Liechtenstein, Austria, Italy </td>
+   <td style="text-align:right;"> 5 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Tajikistan </td>
+   <td style="text-align:left;"> 143,100 </td>
+   <td style="text-align:left;"> Afghanistan, Uzbekistan, Kyrgyzstan, China </td>
+   <td style="text-align:right;"> 4 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Transnistria </td>
+   <td style="text-align:left;"> 4,163 </td>
+   <td style="text-align:left;"> Moldova, Ukraine </td>
+   <td style="text-align:right;"> 2 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Turkmenistan </td>
+   <td style="text-align:left;"> 488,100 </td>
+   <td style="text-align:left;"> Kazakhstan, Uzbekistan, Afghanistan, Iran </td>
+   <td style="text-align:right;"> 4 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Uganda </td>
+   <td style="text-align:left;"> 241,038 </td>
+   <td style="text-align:left;"> Kenya, South Sudan, Democratic Republic of the Congo, Rwanda, Tanzania </td>
+   <td style="text-align:right;"> 5 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Uzbekistan </td>
+   <td style="text-align:left;"> 449,100 </td>
+   <td style="text-align:left;"> Kazakhstan, Tajikistan, Kyrgyzstan, Afghanistan, Turkmenistan </td>
+   <td style="text-align:right;"> 5 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Vatican City </td>
+   <td style="text-align:left;"> 0.44 </td>
+   <td style="text-align:left;"> Italy </td>
+   <td style="text-align:right;"> 1 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> West Bank </td>
+   <td style="text-align:left;"> 5,655 </td>
+   <td style="text-align:left;"> Israel, Jordan </td>
+   <td style="text-align:right;"> 2 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Zambia </td>
+   <td style="text-align:left;"> 752,612 </td>
+   <td style="text-align:left;"> Democratic Republic of the Congo, Tanzania, Malawi, Mozambique, Zimbabwe, Botswana, Namibia, Angola </td>
+   <td style="text-align:right;"> 8 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Zimbabwe </td>
+   <td style="text-align:left;"> 390,757 </td>
+   <td style="text-align:left;"> South Africa, Botswana, Zambia, Mozambique </td>
+   <td style="text-align:right;"> 4 </td>
+  </tr>
+</tbody>
+</table></div> <script type="text/x-mathjax-config">MathJax.Hub.Config({tex2jax: {inlineMath: [["$","$"]]}})</script><script async src="https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+</body>
+</html>

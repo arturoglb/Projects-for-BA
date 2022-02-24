@@ -1,0 +1,4 @@
+"0",""
+"0","landlocked_countries <- read.csv(here::here(""data/landlocked_countries.csv""), header = TRUE, dec = ""."")"
+"0","kable(landlocked_countries[ , ], caption = ""The original landlocked country table"") %>% kable_styling(bootstrap_options = ""bordered"")%>%"
+"0","  kableExtra::scroll_box(width = ""100%"", height = ""250px"")"

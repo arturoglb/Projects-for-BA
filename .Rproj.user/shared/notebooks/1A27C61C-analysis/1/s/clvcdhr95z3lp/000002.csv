@@ -1,0 +1,2 @@
+"0","regression5 <- ols_step_forward_aic(myfull5)"
+"0","plot(regression5)"

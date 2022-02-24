@@ -1,0 +1,8 @@
+"0","diseases <- diseases %>%
+  select(Diseases, ""1"") %>%
+  tibble::rownames_to_column(""Correlation"")
+"
+"2","Error: Can't subset columns that don't exist.
+[31mx[39m Column `1` doesn't exist.
+[90mRun `rlang::last_error()` to see where the error occurred.[39m
+"

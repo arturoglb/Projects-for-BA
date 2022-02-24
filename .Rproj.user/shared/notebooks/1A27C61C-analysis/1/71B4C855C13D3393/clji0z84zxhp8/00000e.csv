@@ -1,0 +1,8 @@
+"0","ggPredict(lll, interactive=TRUE)
+"
+"2","Warning:"
+"2"," 'newdata' had 500 rows but variables found have 39 rows
+"
+"2","Error in `[[<-.data.frame`(`*tmp*`, yname, value = c(`1` = -0.00986158660367262,  : 
+  replacement has 39 rows, data has 500
+"

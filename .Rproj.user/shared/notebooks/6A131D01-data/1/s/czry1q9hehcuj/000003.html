@@ -1,0 +1,640 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<style>body{background-color:white;}</style>
+<script src="lib/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="lib/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
+<script src="lib/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="lib/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="lib/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="lib/kePrint-0.0.1/kePrint.js"></script>
+<link href="lib/lightable-0.0.1/lightable.css" rel="stylesheet" />
+
+</head>
+<body>
+<div style="border: 1px solid #ddd; padding: 0px; overflow-y: scroll; height:250px; overflow-x: scroll; width:100%; "><table class="table table-bordered" style="margin-left: auto; margin-right: auto;">
+<caption>The original table (select only location, cause, year, and val)</caption>
+ <thead>
+  <tr>
+   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> location </th>
+   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> cause </th>
+   <th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;"> year </th>
+   <th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;"> val </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> Haiti </td>
+   <td style="text-align:left;"> Diabetes mellitus type 2 </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 0.538 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Tonga </td>
+   <td style="text-align:left;"> Intracerebral hemorrhage </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 1.233 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Cambodia </td>
+   <td style="text-align:left;"> Upper respiratory infections </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 0.000 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Slovakia </td>
+   <td style="text-align:left;"> Sudden infant death syndrome </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 0.002 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Samoa </td>
+   <td style="text-align:left;"> Intracerebral hemorrhage </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 2.896 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Lithuania </td>
+   <td style="text-align:left;"> Chronic obstructive pulmonary disease </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 4.189 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Kuwait </td>
+   <td style="text-align:left;"> Intracerebral hemorrhage </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 1.314 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Kiribati </td>
+   <td style="text-align:left;"> Intracerebral hemorrhage </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 2.936 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Cambodia </td>
+   <td style="text-align:left;"> Otitis media </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 0.002 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Cambodia </td>
+   <td style="text-align:left;"> Meningitis </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 0.011 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Romania </td>
+   <td style="text-align:left;"> Sudden infant death syndrome </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 0.000 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Kiribati </td>
+   <td style="text-align:left;"> Ischemic stroke </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 0.617 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Micronesia (Federated States of) </td>
+   <td style="text-align:left;"> Subarachnoid hemorrhage </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 0.351 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Micronesia (Federated States of) </td>
+   <td style="text-align:left;"> Intracerebral hemorrhage </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 2.591 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Samoa </td>
+   <td style="text-align:left;"> Subarachnoid hemorrhage </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 0.344 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Georgia </td>
+   <td style="text-align:left;"> Upper respiratory infections </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 0.000 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Georgia </td>
+   <td style="text-align:left;"> Otitis media </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 0.000 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Georgia </td>
+   <td style="text-align:left;"> Meningitis </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 0.003 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> New Zealand </td>
+   <td style="text-align:left;"> Diabetes mellitus type 2 </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 0.557 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Russian Federation </td>
+   <td style="text-align:left;"> Ischemic heart disease </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 38.408 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Kiribati </td>
+   <td style="text-align:left;"> Subarachnoid hemorrhage </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 0.312 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Russian Federation </td>
+   <td style="text-align:left;"> Intracerebral hemorrhage </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 6.398 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Uzbekistan </td>
+   <td style="text-align:left;"> Diarrheal diseases </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 0.109 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Singapore </td>
+   <td style="text-align:left;"> Ischemic stroke </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 4.415 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Iraq </td>
+   <td style="text-align:left;"> Ischemic stroke </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 8.266 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Singapore </td>
+   <td style="text-align:left;"> Subarachnoid hemorrhage </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 0.650 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> China </td>
+   <td style="text-align:left;"> Ischemic stroke </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 3.771 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> China </td>
+   <td style="text-align:left;"> Subarachnoid hemorrhage </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 2.116 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Russian Federation </td>
+   <td style="text-align:left;"> Subarachnoid hemorrhage </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 1.045 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Armenia </td>
+   <td style="text-align:left;"> Otitis media </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 0.000 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Armenia </td>
+   <td style="text-align:left;"> Meningitis </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 0.002 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Armenia </td>
+   <td style="text-align:left;"> Encephalitis </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 0.001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Uzbekistan </td>
+   <td style="text-align:left;"> Neonatal encephalopathy due to birth asphyxia and trauma </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 1.431 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Uzbekistan </td>
+   <td style="text-align:left;"> Neonatal sepsis and other neonatal infections </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 0.049 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Uzbekistan </td>
+   <td style="text-align:left;"> Hemolytic disease and other neonatal jaundice </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 0.019 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Uzbekistan </td>
+   <td style="text-align:left;"> Other neonatal disorders </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 0.197 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Tajikistan </td>
+   <td style="text-align:left;"> Diarrheal diseases </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 0.257 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Spain </td>
+   <td style="text-align:left;"> Subarachnoid hemorrhage </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 0.405 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Japan </td>
+   <td style="text-align:left;"> Chronic obstructive pulmonary disease </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 1.239 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Norway </td>
+   <td style="text-align:left;"> Chronic obstructive pulmonary disease </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 1.787 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Cambodia </td>
+   <td style="text-align:left;"> Encephalitis </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 0.000 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Armenia </td>
+   <td style="text-align:left;"> Neonatal preterm birth </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 1.431 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Armenia </td>
+   <td style="text-align:left;"> Neonatal encephalopathy due to birth asphyxia and trauma </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 0.160 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Russian Federation </td>
+   <td style="text-align:left;"> Ischemic stroke </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 21.374 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> China </td>
+   <td style="text-align:left;"> Ischemic heart disease </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 5.177 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Dominican Republic </td>
+   <td style="text-align:left;"> Meningitis </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 0.031 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Spain </td>
+   <td style="text-align:left;"> Intracerebral hemorrhage </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 3.320 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Myanmar </td>
+   <td style="text-align:left;"> Diabetes mellitus type 2 </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 0.835 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Micronesia (Federated States of) </td>
+   <td style="text-align:left;"> Chronic obstructive pulmonary disease </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 1.817 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Albania </td>
+   <td style="text-align:left;"> Diarrheal diseases </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 0.007 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Armenia </td>
+   <td style="text-align:left;"> Diarrheal diseases </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 0.087 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Bosnia and Herzegovina </td>
+   <td style="text-align:left;"> Diabetes mellitus type 2 </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 0.986 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Cambodia </td>
+   <td style="text-align:left;"> Neonatal preterm birth </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 0.640 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Tonga </td>
+   <td style="text-align:left;"> Chronic obstructive pulmonary disease </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 1.388 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Tajikistan </td>
+   <td style="text-align:left;"> Upper respiratory infections </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 0.002 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Tajikistan </td>
+   <td style="text-align:left;"> Otitis media </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 0.000 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Georgia </td>
+   <td style="text-align:left;"> Encephalitis </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 0.001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Spain </td>
+   <td style="text-align:left;"> Ischemic heart disease </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 12.293 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Spain </td>
+   <td style="text-align:left;"> Ischemic stroke </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 6.662 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> China </td>
+   <td style="text-align:left;"> Intracerebral hemorrhage </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 7.794 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Tajikistan </td>
+   <td style="text-align:left;"> Lower respiratory infections </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 14.718 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Taiwan (Province of China) </td>
+   <td style="text-align:left;"> Subarachnoid hemorrhage </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 0.449 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Samoa </td>
+   <td style="text-align:left;"> Chronic obstructive pulmonary disease </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 2.228 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Jamaica </td>
+   <td style="text-align:left;"> Diarrheal diseases </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 0.021 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Jamaica </td>
+   <td style="text-align:left;"> Lower respiratory infections </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 1.267 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Albania </td>
+   <td style="text-align:left;"> Upper respiratory infections </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 0.001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Albania </td>
+   <td style="text-align:left;"> Otitis media </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 0.000 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Albania </td>
+   <td style="text-align:left;"> Meningitis </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 0.011 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Albania </td>
+   <td style="text-align:left;"> Encephalitis </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 0.005 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Croatia </td>
+   <td style="text-align:left;"> Diabetes mellitus type 2 </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 2.363 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Australia </td>
+   <td style="text-align:left;"> Subarachnoid hemorrhage </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 0.255 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Kiribati </td>
+   <td style="text-align:left;"> Chronic obstructive pulmonary disease </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 0.919 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Yemen </td>
+   <td style="text-align:left;"> Subarachnoid hemorrhage </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 0.190 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Samoa </td>
+   <td style="text-align:left;"> Sudden infant death syndrome </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 0.001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Indonesia </td>
+   <td style="text-align:left;"> Diabetes mellitus type 2 </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 0.930 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Jamaica </td>
+   <td style="text-align:left;"> Other neonatal disorders </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 0.056 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Malta </td>
+   <td style="text-align:left;"> Sudden infant death syndrome </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 0.001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Albania </td>
+   <td style="text-align:left;"> Neonatal encephalopathy due to birth asphyxia and trauma </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 0.160 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Albania </td>
+   <td style="text-align:left;"> Neonatal sepsis and other neonatal infections </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 0.004 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Albania </td>
+   <td style="text-align:left;"> Hemolytic disease and other neonatal jaundice </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 0.034 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Albania </td>
+   <td style="text-align:left;"> Other neonatal disorders </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 0.369 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Taiwan (Province of China) </td>
+   <td style="text-align:left;"> Ischemic heart disease </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 6.426 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Taiwan (Province of China) </td>
+   <td style="text-align:left;"> Ischemic stroke </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 4.180 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Grenada </td>
+   <td style="text-align:left;"> Diabetes mellitus type 2 </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 4.624 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Timor-Leste </td>
+   <td style="text-align:left;"> Diabetes mellitus type 2 </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 0.080 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Saint Lucia </td>
+   <td style="text-align:left;"> Diabetes mellitus type 2 </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 4.145 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Maldives </td>
+   <td style="text-align:left;"> Lower respiratory infections </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 0.950 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Kyrgyzstan </td>
+   <td style="text-align:left;"> Upper respiratory infections </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 0.001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Kyrgyzstan </td>
+   <td style="text-align:left;"> Otitis media </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 0.000 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Kyrgyzstan </td>
+   <td style="text-align:left;"> Meningitis </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 0.024 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Kyrgyzstan </td>
+   <td style="text-align:left;"> Encephalitis </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 0.001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Maldives </td>
+   <td style="text-align:left;"> Upper respiratory infections </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 0.000 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Montenegro </td>
+   <td style="text-align:left;"> Diabetes mellitus type 2 </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 1.678 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Kiribati </td>
+   <td style="text-align:left;"> Sudden infant death syndrome </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 0.001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Dominican Republic </td>
+   <td style="text-align:left;"> Diarrheal diseases </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 0.071 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Hungary </td>
+   <td style="text-align:left;"> Diabetes mellitus type 2 </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 2.335 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Kyrgyzstan </td>
+   <td style="text-align:left;"> Lower respiratory infections </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 6.523 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Kuwait </td>
+   <td style="text-align:left;"> Sudden infant death syndrome </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 0.011 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Mexico </td>
+   <td style="text-align:left;"> Chronic obstructive pulmonary disease </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 2.567 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Trinidad and Tobago </td>
+   <td style="text-align:left;"> Diarrheal diseases </td>
+   <td style="text-align:right;"> 1990 </td>
+   <td style="text-align:right;"> 0.016 </td>
+  </tr>
+</tbody>
+</table></div> <script type="text/x-mathjax-config">MathJax.Hub.Config({tex2jax: {inlineMath: [["$","$"]]}})</script><script async src="https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+</body>
+</html>

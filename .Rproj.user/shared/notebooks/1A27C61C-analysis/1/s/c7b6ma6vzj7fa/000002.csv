@@ -1,0 +1,18 @@
+"0",""
+"0","mapped_data <- joinCountryData2Map(mortality_rate_country_wide_current, joinCode = ""ISO3"", nameJoinColumn = ""Country.Code3"", verbose = FALSE)"
+"1","203"
+"1"," "
+"1","codes from your data successfully matched countries in the map
+"
+"1","1"
+"1"," "
+"1","codes from your data failed to match with a country code in the map
+"
+"1","40"
+"1"," "
+"1","codes from the map weren't represented in your data
+"
+"0","country_lon_lat <- data.frame(Country.Code3 = mapped_data$ISO3.1, Country = mapped_data$ADMIN.1, Longitude = mapped_data$LON, Latitude = mapped_data$LAT)"
+"0",""
+"0","country_lon_lat <- mutate(country_lon_lat, Type = case_when(Latitude <= -23.43644 ~ ""South"", Latitude >= 23.43644 ~ ""North"", TRUE ~ ""Tropics""))"
+"0","  "

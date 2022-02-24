@@ -1,0 +1,6 @@
+"0",""
+"0","prep.gdp <- gdp%>%"
+"0","             gather(year, val, '1990':'2020', factor_key=FALSE)%>%"
+"0","                    rename('GDP' = 'val')"
+"2","Error in rename(., GDP = ""val"") : unused argument (GDP = ""val"")
+"

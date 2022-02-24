@@ -1,0 +1,571 @@
+measure,location,sex,age,cause,rei,metric,year,val,upper,lower
+Deaths,Global,Both,All Ages,Lower respiratory infections,Ambient particulate matter pollution,Rate,1990,5.427415393473194,8.656359167445904,3.2374126701102273
+Deaths,Global,Both,All Ages,Other neonatal disorders,Ambient particulate matter pollution,Rate,1990,0.37714135485931194,0.6601018719260809,0.20767988388041997
+Deaths,Global,Both,All Ages,Upper respiratory infections,Ambient particulate matter pollution,Rate,1990,0.0005667676755635972,0.0011380416728032868,0.00021114932013241246
+Deaths,Global,Both,All Ages,Otitis media,Ambient particulate matter pollution,Rate,1990,0.0002567724367341019,0.0007894483433532682,4.5208277226916185e-05
+Deaths,Global,Both,All Ages,Meningitis,Ambient particulate matter pollution,Rate,1990,0.018200366100944523,0.032176566659515855,0.00976997406424312
+Deaths,Global,Both,All Ages,Ischemic heart disease,Ambient particulate matter pollution,Rate,1990,11.356891852495046,14.386285973873484,8.414401039346027
+Deaths,Global,Both,All Ages,Neonatal preterm birth,Ambient particulate matter pollution,Rate,1990,0.8729513692554767,1.362974967523355,0.5222412948785469
+Deaths,Global,Both,All Ages,Neonatal encephalopathy due to birth asphyxia and trauma,Ambient particulate matter pollution,Rate,1990,0.5041537849316227,0.8483506806894735,0.2683089384258044
+Deaths,Global,Both,All Ages,Upper respiratory infections,Ambient particulate matter pollution,Rate,1993,0.0004959502046762268,0.0009464172384037126,0.00018111489989084371
+Deaths,Global,Both,All Ages,"Tracheal, bronchus, and lung cancer",Ambient particulate matter pollution,Rate,1990,2.2138276670334696,3.0633661139834456,1.4802423924589854
+Deaths,Global,Both,All Ages,Chronic obstructive pulmonary disease,Ambient particulate matter pollution,Rate,1990,6.574655521565888,9.623471459202964,4.116542736394421
+Deaths,Global,Both,All Ages,Intracerebral hemorrhage,Ambient particulate matter pollution,Rate,1990,4.350644066358671,6.152736666153185,2.8277175170464894
+Deaths,Global,Both,All Ages,Diarrheal diseases,Ambient particulate matter pollution,Rate,1990,0.13672610358040804,0.24958335719832336,0.06996106950147266
+Deaths,Global,Both,All Ages,Encephalitis,Ambient particulate matter pollution,Rate,1990,0.0019316730813564097,0.003251993500929115,0.0009792155444620367
+Deaths,Global,Both,All Ages,Neonatal sepsis and other neonatal infections,Ambient particulate matter pollution,Rate,1990,0.15174792571735418,0.2681239711232484,0.07932321673446824
+Deaths,Global,Both,All Ages,Hemolytic disease and other neonatal jaundice,Ambient particulate matter pollution,Rate,1990,0.085189003928582,0.1654571459275565,0.03914224434857237
+Deaths,Global,Both,All Ages,Sudden infant death syndrome,Ambient particulate matter pollution,Rate,1990,0.004624034815903071,0.0120167594033111,0.001896307823935716
+Deaths,Global,Both,All Ages,Ischemic stroke,Ambient particulate matter pollution,Rate,1990,4.217081403479303,5.432739358138485,2.9930635667043237
+Deaths,Global,Both,All Ages,Subarachnoid hemorrhage,Ambient particulate matter pollution,Rate,1990,0.9284914954689688,1.4401482774501864,0.5348576069754587
+Deaths,Global,Both,All Ages,Diarrheal diseases,Ambient particulate matter pollution,Rate,1992,0.12254638193766401,0.22076867829264593,0.06233868331614828
+Deaths,Global,Both,All Ages,Intracerebral hemorrhage,Ambient particulate matter pollution,Rate,1993,4.624089932067048,6.352499437411672,3.0762950779092164
+Deaths,Global,Both,All Ages,Encephalitis,Ambient particulate matter pollution,Rate,1992,0.0018854886570452958,0.003042919478266741,0.0009780041853817904
+Deaths,Global,Both,All Ages,Neonatal sepsis and other neonatal infections,Ambient particulate matter pollution,Rate,1992,0.15064764209858822,0.26136402025951067,0.08000297101764346
+Deaths,Global,Both,All Ages,Otitis media,Ambient particulate matter pollution,Rate,1991,0.000250182118602695,0.0007856274446395948,4.0750394345138705e-05
+Deaths,Global,Both,All Ages,Diabetes mellitus type 2,Ambient particulate matter pollution,Rate,1990,1.043472411828211,1.4704247386885891,0.6979203411526942
+Deaths,Global,Both,All Ages,Hemolytic disease and other neonatal jaundice,Ambient particulate matter pollution,Rate,1992,0.08050486125553118,0.14904944583317278,0.039061004953793235
+Deaths,Global,Both,All Ages,Meningitis,Ambient particulate matter pollution,Rate,1991,0.01772233346591696,0.030583045594241118,0.009555375287886409
+Deaths,Global,Both,All Ages,Neonatal preterm birth,Ambient particulate matter pollution,Rate,1991,0.8575463557918294,1.330423609152383,0.5246017172070161
+Deaths,Global,Both,All Ages,Neonatal encephalopathy due to birth asphyxia and trauma,Ambient particulate matter pollution,Rate,1991,0.49810113391547073,0.8244151258060071,0.26691636770629185
+Deaths,Global,Both,All Ages,Chronic obstructive pulmonary disease,Ambient particulate matter pollution,Rate,1994,7.040914479842489,9.970262686224434,4.566905537177768
+Deaths,Global,Both,All Ages,"Tracheal, bronchus, and lung cancer",Ambient particulate matter pollution,Rate,1991,2.241079512941869,3.0744560960378764,1.4959217953497164
+Deaths,Global,Both,All Ages,Diabetes mellitus type 2,Ambient particulate matter pollution,Rate,1991,1.0702745800348483,1.4974782502356037,0.7201526682878359
+Deaths,Global,Both,All Ages,Ischemic stroke,Ambient particulate matter pollution,Rate,1992,4.295960875529634,5.451978331488363,3.0870032090830426
+Deaths,Global,Both,All Ages,Subarachnoid hemorrhage,Ambient particulate matter pollution,Rate,1992,0.963625142381761,1.4363186818707618,0.5688746245414724
+Deaths,Global,Both,All Ages,Diarrheal diseases,Ambient particulate matter pollution,Rate,1993,0.1157307979879321,0.20971254091835312,0.05971036197723946
+Deaths,Global,Both,All Ages,Otitis media,Ambient particulate matter pollution,Rate,1993,0.00023944744102934903,0.0008043823209905354,3.47006190118324e-05
+Deaths,Global,Both,All Ages,Meningitis,Ambient particulate matter pollution,Rate,1993,0.01692227343492713,0.02913708835171652,0.009320157748388394
+Deaths,Global,Both,All Ages,Encephalitis,Ambient particulate matter pollution,Rate,1993,0.0018809107862796043,0.0029922750536269128,0.0009931175039212395
+Deaths,Global,Both,All Ages,Neonatal preterm birth,Ambient particulate matter pollution,Rate,1993,0.8341451472034159,1.2739877540726765,0.5204090631000029
+Deaths,Global,Both,All Ages,Neonatal encephalopathy due to birth asphyxia and trauma,Ambient particulate matter pollution,Rate,1993,0.49235821434502886,0.8094671621825358,0.2715223901947712
+Deaths,Global,Both,All Ages,Diarrheal diseases,Ambient particulate matter pollution,Rate,1991,0.1301993455736385,0.23803096843206606,0.06712616884577009
+Deaths,Global,Both,All Ages,Sudden infant death syndrome,Ambient particulate matter pollution,Rate,1993,0.004169800386565664,0.010704717305664007,0.0017776136074221678
+Deaths,Global,Both,All Ages,Encephalitis,Ambient particulate matter pollution,Rate,1991,0.0019094883874872528,0.003131457510358461,0.0009775735530241651
+Deaths,Global,Both,All Ages,Neonatal sepsis and other neonatal infections,Ambient particulate matter pollution,Rate,1993,0.15114932602209713,0.2598896435428023,0.08073450971200634
+Deaths,Global,Both,All Ages,Hemolytic disease and other neonatal jaundice,Ambient particulate matter pollution,Rate,1993,0.0784957996000326,0.14330276232100167,0.03890085967896382
+Deaths,Global,Both,All Ages,Sudden infant death syndrome,Ambient particulate matter pollution,Rate,1991,0.004451456201982566,0.011483579687134584,0.00186687356909101
+Deaths,Global,Both,All Ages,"Tracheal, bronchus, and lung cancer",Ambient particulate matter pollution,Rate,1993,2.3310469913638308,3.1904844090682865,1.5818082669731177
+Deaths,Global,Both,All Ages,Neonatal sepsis and other neonatal infections,Ambient particulate matter pollution,Rate,1991,0.15107301668588055,0.26479187348930683,0.08001742445507307
+Deaths,Global,Both,All Ages,Hemolytic disease and other neonatal jaundice,Ambient particulate matter pollution,Rate,1991,0.08252529235984489,0.1568056172883501,0.03905328931709027
+Deaths,Global,Both,All Ages,Sudden infant death syndrome,Ambient particulate matter pollution,Rate,1994,0.0040504511169304844,0.010301211358206257,0.0017230279934590577
+Deaths,Global,Both,All Ages,Lower respiratory infections,Ambient particulate matter pollution,Rate,1992,5.226865439204509,8.21095994448224,3.173384680215857
+Deaths,Global,Both,All Ages,Other neonatal disorders,Ambient particulate matter pollution,Rate,1992,0.3632742880960395,0.6078482050077685,0.19997887079238716
+Deaths,Global,Both,All Ages,Diarrheal diseases,Ambient particulate matter pollution,Rate,1994,0.11002571307091417,0.19661359585251958,0.057527957961212
+Deaths,Global,Both,All Ages,Encephalitis,Ambient particulate matter pollution,Rate,1994,0.0018723384916714393,0.002956426708148393,0.001008666917211701
+Deaths,Global,Both,All Ages,Upper respiratory infections,Ambient particulate matter pollution,Rate,1991,0.0005453163848642204,0.0010736708331260108,0.0002005800439454294
+Deaths,Global,Both,All Ages,Neonatal sepsis and other neonatal infections,Ambient particulate matter pollution,Rate,1994,0.15202559271052404,0.2558485125384653,0.08178557459033181
+Deaths,Global,Both,All Ages,Upper respiratory infections,Ambient particulate matter pollution,Rate,1992,0.0005184812508467945,0.0010158726887889646,0.0001877634881370915
+Deaths,Global,Both,All Ages,Diabetes mellitus type 2,Ambient particulate matter pollution,Rate,1994,1.1778617024240194,1.634942596669454,0.8004295433010531
+Deaths,Global,Both,All Ages,Ischemic stroke,Ambient particulate matter pollution,Rate,1991,4.237457893818759,5.4039801175536875,3.0296079378383065
+Deaths,Global,Both,All Ages,Hemolytic disease and other neonatal jaundice,Ambient particulate matter pollution,Rate,1994,0.07663466192974132,0.13776175103195873,0.03856816566136997
+Deaths,Global,Both,All Ages,Ischemic stroke,Ambient particulate matter pollution,Rate,1993,4.441922592983867,5.685967055514715,3.2188412136932216
+Deaths,Global,Both,All Ages,Lower respiratory infections,Ambient particulate matter pollution,Rate,1991,5.3164221169150325,8.403032904588743,3.2066023073829064
+Deaths,Global,Both,All Ages,Ischemic heart disease,Ambient particulate matter pollution,Rate,1992,11.517009465943966,14.454301790163212,8.629131852629637
+Deaths,Global,Both,All Ages,Subarachnoid hemorrhage,Ambient particulate matter pollution,Rate,1991,0.9453915786737976,1.4731458188713302,0.552135769314368
+Deaths,Global,Both,All Ages,Subarachnoid hemorrhage,Ambient particulate matter pollution,Rate,1993,0.9896841956150614,1.4563589318204484,0.5906200718170083
+Deaths,Global,Both,All Ages,Other neonatal disorders,Ambient particulate matter pollution,Rate,1991,0.36834095447467285,0.6291604377194309,0.20293305349280405
+Deaths,Global,Both,All Ages,Otitis media,Ambient particulate matter pollution,Rate,1992,0.00024608335388695145,0.0007706468305177797,3.789742930504111e-05
+Deaths,Global,Both,All Ages,Meningitis,Ambient particulate matter pollution,Rate,1992,0.01737774319450429,0.02985289640334727,0.009500199456181514
+Deaths,Global,Both,All Ages,Ischemic stroke,Ambient particulate matter pollution,Rate,1994,4.51939831102483,5.760834953067691,3.2710789010843664
+Deaths,Global,Both,All Ages,Subarachnoid hemorrhage,Ambient particulate matter pollution,Rate,1994,1.0096495625840054,1.4830926868410959,0.6060013884146922
+Deaths,Global,Both,All Ages,Neonatal preterm birth,Ambient particulate matter pollution,Rate,1992,0.8457799967530153,1.2880622456300104,0.5193961637534261
+Deaths,Global,Both,All Ages,Intracerebral hemorrhage,Ambient particulate matter pollution,Rate,1991,4.3969253369163495,6.182739220861906,2.895268501591373
+Deaths,Global,Both,All Ages,Neonatal encephalopathy due to birth asphyxia and trauma,Ambient particulate matter pollution,Rate,1992,0.4946194938427282,0.8197906287555029,0.26924123495788066
+Deaths,Global,Both,All Ages,Chronic obstructive pulmonary disease,Ambient particulate matter pollution,Rate,1992,6.8181205973714105,9.888051859966371,4.376606473094802
+Deaths,Global,Both,All Ages,Lower respiratory infections,Ambient particulate matter pollution,Rate,1993,5.125937331346869,7.932770095484446,3.1286453449710843
+Deaths,Global,Both,All Ages,"Tracheal, bronchus, and lung cancer",Ambient particulate matter pollution,Rate,1992,2.2739442683396875,3.0969455344301187,1.5261785206751255
+Deaths,Global,Both,All Ages,Ischemic heart disease,Ambient particulate matter pollution,Rate,1991,11.40820957039758,14.434215311158553,8.447965546221367
+Deaths,Global,Both,All Ages,Other neonatal disorders,Ambient particulate matter pollution,Rate,1993,0.3596587772755222,0.5967460339448764,0.2033243864451958
+Deaths,Global,Both,All Ages,Upper respiratory infections,Ambient particulate matter pollution,Rate,1994,0.0004740160215779683,0.0008969704665914671,0.00017414814455214974
+Deaths,Global,Both,All Ages,Intracerebral hemorrhage,Ambient particulate matter pollution,Rate,1992,4.493386122721896,6.20774661809837,2.961973903259299
+Deaths,Global,Both,All Ages,Lower respiratory infections,Ambient particulate matter pollution,Rate,1994,5.018013179680894,7.708756741482386,3.093305124495651
+Deaths,Global,Both,All Ages,Chronic obstructive pulmonary disease,Ambient particulate matter pollution,Rate,1991,6.6932850466998275,9.739374489605698,4.213304493753698
+Deaths,Global,Both,All Ages,Other neonatal disorders,Ambient particulate matter pollution,Rate,1994,0.3565118108834637,0.5894925174398947,0.20649155222427026
+Deaths,Global,Both,All Ages,Ischemic heart disease,Ambient particulate matter pollution,Rate,1993,11.842294873929221,14.846174067183659,8.911079491302884
+Deaths,Global,Both,All Ages,Sudden infant death syndrome,Ambient particulate matter pollution,Rate,1992,0.004288328904315585,0.011059924069264171,0.001812727179362386
+Deaths,Global,Both,All Ages,Diabetes mellitus type 2,Ambient particulate matter pollution,Rate,1992,1.1019724450929291,1.5391373086177653,0.7432591869199677
+Deaths,Global,Both,All Ages,Ischemic heart disease,Ambient particulate matter pollution,Rate,1994,12.010675319137102,14.964501594819696,9.096824045369388
+Deaths,Global,Both,All Ages,Chronic obstructive pulmonary disease,Ambient particulate matter pollution,Rate,1997,7.35214940424327,10.128756698535058,4.873686489871114
+Deaths,Global,Both,All Ages,Ischemic heart disease,Ambient particulate matter pollution,Rate,1997,11.930398259113293,14.715257430647336,9.19040810990634
+Deaths,Global,Both,All Ages,Neonatal encephalopathy due to birth asphyxia and trauma,Ambient particulate matter pollution,Rate,1994,0.4903458098499534,0.810387364645682,0.2699047237748107
+Deaths,Global,Both,All Ages,Diabetes mellitus type 2,Ambient particulate matter pollution,Rate,1993,1.1424863415626119,1.597549628271499,0.7733768477422229
+Deaths,Global,Both,All Ages,Otitis media,Ambient particulate matter pollution,Rate,1994,0.00023262502382229635,0.0007870101529155682,3.209326301551128e-05
+Deaths,Global,Both,All Ages,Meningitis,Ambient particulate matter pollution,Rate,1994,0.016487316824347995,0.02830905303435249,0.009191230033180564
+Deaths,Global,Both,All Ages,Diarrheal diseases,Ambient particulate matter pollution,Rate,1996,0.10081550302271867,0.17871204006344027,0.052276999075121594
+Deaths,Global,Both,All Ages,Otitis media,Ambient particulate matter pollution,Rate,1995,0.00022078182422353084,0.0007239357671465476,2.8687486332087762e-05
+Deaths,Global,Both,All Ages,Other neonatal disorders,Ambient particulate matter pollution,Rate,1996,0.3539600224604134,0.5790660136288147,0.20990669257694725
+Deaths,Global,Both,All Ages,Ischemic stroke,Ambient particulate matter pollution,Rate,1997,4.54915351487143,5.665216190077788,3.3725272788055145
+Deaths,Global,Both,All Ages,Subarachnoid hemorrhage,Ambient particulate matter pollution,Rate,1997,1.0300294000920382,1.4530620147773654,0.6533321231983972
+Deaths,Global,Both,All Ages,Intracerebral hemorrhage,Ambient particulate matter pollution,Rate,1997,5.144130317357191,6.8693957762281865,3.574888816375547
+Deaths,Global,Both,All Ages,Intracerebral hemorrhage,Ambient particulate matter pollution,Rate,1994,4.739473157079847,6.4967397594995555,3.180163297385338
+Deaths,Global,Both,All Ages,Lower respiratory infections,Ambient particulate matter pollution,Rate,1997,4.7548262141782205,7.25012649456006,2.989152285961831
+Deaths,Global,Both,All Ages,Ischemic heart disease,Ambient particulate matter pollution,Rate,1996,11.909585773581178,14.778483820974166,9.078874775649464
+Deaths,Global,Both,All Ages,Subarachnoid hemorrhage,Ambient particulate matter pollution,Rate,1996,1.0308817517462263,1.4704616953444152,0.6395547051624887
+Deaths,Global,Both,All Ages,Neonatal sepsis and other neonatal infections,Ambient particulate matter pollution,Rate,1996,0.15443514598923158,0.2557120364910792,0.08593244880482313
+Deaths,Global,Both,All Ages,Hemolytic disease and other neonatal jaundice,Ambient particulate matter pollution,Rate,1996,0.07381563206843905,0.1299964295118687,0.03883313909697948
+Deaths,Global,Both,All Ages,Diabetes mellitus type 2,Ambient particulate matter pollution,Rate,1998,1.3398369802940773,1.8481250762343766,0.9235154433637682
+Deaths,Global,Both,All Ages,Chronic obstructive pulmonary disease,Ambient particulate matter pollution,Rate,1993,6.96013617516552,9.984221371811993,4.433513365892074
+Deaths,Global,Both,All Ages,Other neonatal disorders,Ambient particulate matter pollution,Rate,1995,0.35535396519251367,0.5788495733145791,0.20664086178140229
+Deaths,Global,Both,All Ages,Encephalitis,Ambient particulate matter pollution,Rate,1995,0.0018614155147393854,0.0028641188364746544,0.001009950435360667
+Deaths,Global,Both,All Ages,Diarrheal diseases,Ambient particulate matter pollution,Rate,1998,0.09770888045525465,0.17049226941916273,0.051935427029485046
+Deaths,Global,Both,All Ages,Chronic obstructive pulmonary disease,Ambient particulate matter pollution,Rate,1995,7.090453759734258,10.042971844026543,4.592526100592895
+Deaths,Global,Both,All Ages,Diarrheal diseases,Ambient particulate matter pollution,Rate,1995,0.10486988258710407,0.18653625287359463,0.0541709534015544
+Deaths,Global,Both,All Ages,Intracerebral hemorrhage,Ambient particulate matter pollution,Rate,1996,4.968458531997493,6.7255448102204305,3.378146841211443
+Deaths,Global,Both,All Ages,Neonatal encephalopathy due to birth asphyxia and trauma,Ambient particulate matter pollution,Rate,1996,0.4927193114602887,0.8016919421991038,0.2797016672678235
+Deaths,Global,Both,All Ages,Otitis media,Ambient particulate matter pollution,Rate,1996,0.00021202002452376317,0.0007397176972995827,2.5478111464363397e-05
+Deaths,Global,Both,All Ages,Meningitis,Ambient particulate matter pollution,Rate,1996,0.016639896687734926,0.028931250044678336,0.009258618040312756
+Deaths,Global,Both,All Ages,Neonatal preterm birth,Ambient particulate matter pollution,Rate,1996,0.7938074713483211,1.1837651034111225,0.5079075204113266
+Deaths,Global,Both,All Ages,Otitis media,Ambient particulate matter pollution,Rate,1999,0.00017438750193027167,0.000610376667540144,1.9790670723118595e-05
+Deaths,Global,Both,All Ages,Meningitis,Ambient particulate matter pollution,Rate,1999,0.016228503629659517,0.027071002977729013,0.009150288882976821
+Deaths,Global,Both,All Ages,Sudden infant death syndrome,Ambient particulate matter pollution,Rate,1997,0.003741839299658126,0.009195518838151234,0.0016391261659160132
+Deaths,Global,Both,All Ages,Ischemic stroke,Ambient particulate matter pollution,Rate,1996,4.52683877974721,5.7009205806743415,3.3330097713470765
+Deaths,Global,Both,All Ages,Intracerebral hemorrhage,Ambient particulate matter pollution,Rate,1995,4.833769756248027,6.5610394865437875,3.2479555485773406
+Deaths,Global,Both,All Ages,Upper respiratory infections,Ambient particulate matter pollution,Rate,1996,0.0004192665098296457,0.0007663763863590182,0.00015465411845855059
+Deaths,Global,Both,All Ages,Neonatal preterm birth,Ambient particulate matter pollution,Rate,1995,0.8075787889734993,1.2145266964092893,0.5089466203422771
+Deaths,Global,Both,All Ages,Ischemic heart disease,Ambient particulate matter pollution,Rate,1995,11.978862721415203,14.917272449335014,9.086298696894943
+Deaths,Global,Both,All Ages,Neonatal sepsis and other neonatal infections,Ambient particulate matter pollution,Rate,1998,0.1614898544574926,0.2634826783261143,0.09205045636332693
+Deaths,Global,Both,All Ages,Hemolytic disease and other neonatal jaundice,Ambient particulate matter pollution,Rate,1998,0.074451095708291,0.12640634206528797,0.03981753632915132
+Deaths,Global,Both,All Ages,Other neonatal disorders,Ambient particulate matter pollution,Rate,1997,0.3599988949048935,0.5815677012202759,0.2158139130117002
+Deaths,Global,Both,All Ages,"Tracheal, bronchus, and lung cancer",Ambient particulate matter pollution,Rate,1996,2.420902489456757,3.2265842195377936,1.6721096978719845
+Deaths,Global,Both,All Ages,Neonatal preterm birth,Ambient particulate matter pollution,Rate,1994,0.821677694556658,1.2528074020378854,0.5160919680414144
+Deaths,Global,Both,All Ages,Lower respiratory infections,Ambient particulate matter pollution,Rate,1995,4.913966217819754,7.495199219991153,3.0365885365449397
+Deaths,Global,Both,All Ages,Upper respiratory infections,Ambient particulate matter pollution,Rate,1999,0.00034907797837866513,0.0006291933252247762,0.00013520547837462412
+Deaths,Global,Both,All Ages,Neonatal sepsis and other neonatal infections,Ambient particulate matter pollution,Rate,1995,0.15284278930989623,0.2545365239171924,0.08303937595747024
+Deaths,Global,Both,All Ages,Hemolytic disease and other neonatal jaundice,Ambient particulate matter pollution,Rate,1995,0.07518390290442961,0.1352177265919861,0.03876946815581846
+Deaths,Global,Both,All Ages,Lower respiratory infections,Ambient particulate matter pollution,Rate,1999,4.657864378338418,7.104071740858999,2.9962691641112835
+Deaths,Global,Both,All Ages,Upper respiratory infections,Ambient particulate matter pollution,Rate,1995,0.0004495557123583064,0.0008355982013922628,0.00016524195794912356
+Deaths,Global,Both,All Ages,"Tracheal, bronchus, and lung cancer",Ambient particulate matter pollution,Rate,1994,2.36664857070626,3.2125878456646895,1.627065331080414
+Deaths,Global,Both,All Ages,"Tracheal, bronchus, and lung cancer",Ambient particulate matter pollution,Rate,1995,2.399950003827539,3.231457478373633,1.6562784822514176
+Deaths,Global,Both,All Ages,Other neonatal disorders,Ambient particulate matter pollution,Rate,1999,0.3764555928494906,0.591013084271885,0.2280974520632229
+Deaths,Global,Both,All Ages,Chronic obstructive pulmonary disease,Ambient particulate matter pollution,Rate,1996,7.199789888547831,10.01892797200102,4.662395945653573
+Deaths,Global,Both,All Ages,Diabetes mellitus type 2,Ambient particulate matter pollution,Rate,1997,1.2953450163331737,1.7827122363411816,0.8909550904200748
+Deaths,Global,Both,All Ages,Encephalitis,Ambient particulate matter pollution,Rate,1998,0.0019096870894029273,0.0028718605334843612,0.0010990961936519878
+Deaths,Global,Both,All Ages,Encephalitis,Ambient particulate matter pollution,Rate,1996,0.001857434039028606,0.002854847258242833,0.001039172989081469
+Deaths,Global,Both,All Ages,Lower respiratory infections,Ambient particulate matter pollution,Rate,1996,4.801678028006656,7.330765736089917,3.022149622567799
+Deaths,Global,Both,All Ages,Neonatal encephalopathy due to birth asphyxia and trauma,Ambient particulate matter pollution,Rate,1995,0.4899179620419891,0.8038007882150634,0.27116775299991747
+Deaths,Global,Both,All Ages,Meningitis,Ambient particulate matter pollution,Rate,1995,0.016151466563508046,0.02787815627499502,0.008905944230078516
+Deaths,Global,Both,All Ages,Neonatal preterm birth,Ambient particulate matter pollution,Rate,1999,0.7877442684427106,1.154193775997535,0.5139143632702493
+Deaths,Global,Both,All Ages,Ischemic stroke,Ambient particulate matter pollution,Rate,1995,4.528327380916113,5.785685480896109,3.2783509746087716
+Deaths,Global,Both,All Ages,Subarachnoid hemorrhage,Ambient particulate matter pollution,Rate,1995,1.027938443191693,1.4998429091055208,0.6283625511003267
+Deaths,Global,Both,All Ages,Neonatal encephalopathy due to birth asphyxia and trauma,Ambient particulate matter pollution,Rate,1999,0.5264878837497085,0.8315748366751289,0.3096846381598935
+Deaths,Global,Both,All Ages,Sudden infant death syndrome,Ambient particulate matter pollution,Rate,1996,0.003812618280707086,0.009506889214660787,0.0016543328061819945
+Deaths,Global,Both,All Ages,Intracerebral hemorrhage,Ambient particulate matter pollution,Rate,1999,5.564947301519678,7.376529006782783,3.9806268229541515
+Deaths,Global,Both,All Ages,Otitis media,Ambient particulate matter pollution,Rate,1998,0.00020090443058917872,0.0006917024030306458,2.1963010222928115e-05
+Deaths,Global,Both,All Ages,Meningitis,Ambient particulate matter pollution,Rate,1998,0.01600399228832317,0.02692355557299919,0.009003612608922311
+Deaths,Global,Both,All Ages,Sudden infant death syndrome,Ambient particulate matter pollution,Rate,1995,0.003929192919573523,0.00983773062088233,0.0016721533793892806
+Deaths,Global,Both,All Ages,Neonatal preterm birth,Ambient particulate matter pollution,Rate,1998,0.7913355121476473,1.1626586198785858,0.5119156007219051
+Deaths,Global,Both,All Ages,Ischemic heart disease,Ambient particulate matter pollution,Rate,1999,12.135837377030288,14.904750936009384,9.429427085294972
+Deaths,Global,Both,All Ages,Upper respiratory infections,Ambient particulate matter pollution,Rate,1998,0.00037090605098614565,0.0006767109448643678,0.00014173123390004856
+Deaths,Global,Both,All Ages,Neonatal encephalopathy due to birth asphyxia and trauma,Ambient particulate matter pollution,Rate,1998,0.5152829824970521,0.8239446473640135,0.2985095880142598
+Deaths,Global,Both,All Ages,Ischemic stroke,Ambient particulate matter pollution,Rate,1998,4.5864310329433025,5.696426848749047,3.393764821714275
+Deaths,Global,Both,All Ages,Subarachnoid hemorrhage,Ambient particulate matter pollution,Rate,1998,1.0304634050007782,1.4288790911147051,0.6622184967243218
+Deaths,Global,Both,All Ages,Sudden infant death syndrome,Ambient particulate matter pollution,Rate,1999,0.003626848919436675,0.008861513968947169,0.0015797863174831534
+Deaths,Global,Both,All Ages,"Tracheal, bronchus, and lung cancer",Ambient particulate matter pollution,Rate,1999,2.5644950283611245,3.3611857776954936,1.7833029678142946
+Deaths,Global,Both,All Ages,Diarrheal diseases,Ambient particulate matter pollution,Rate,1999,0.09639465570790938,0.16754303209433993,0.05190991226298382
+Deaths,Global,Both,All Ages,Diabetes mellitus type 2,Ambient particulate matter pollution,Rate,1996,1.249495534258106,1.730127321533745,0.8511431731014122
+Deaths,Global,Both,All Ages,Otitis media,Ambient particulate matter pollution,Rate,1997,0.00020187299938817648,0.0006823322942356172,2.2812371505488564e-05
+Deaths,Global,Both,All Ages,Encephalitis,Ambient particulate matter pollution,Rate,1999,0.0019325660758036656,0.0028927954747779414,0.0011237972301551752
+Deaths,Global,Both,All Ages,Meningitis,Ambient particulate matter pollution,Rate,1997,0.015975263009771402,0.027173339160659372,0.008972594866784023
+Deaths,Global,Both,All Ages,Neonatal sepsis and other neonatal infections,Ambient particulate matter pollution,Rate,1999,0.16471160763467965,0.2672656590278711,0.09572348869526652
+Deaths,Global,Both,All Ages,Lower respiratory infections,Ambient particulate matter pollution,Rate,1998,4.710560392923995,7.18501076553093,2.971190485355909
+Deaths,Global,Both,All Ages,Chronic obstructive pulmonary disease,Ambient particulate matter pollution,Rate,1999,7.599673391474872,10.31355090361873,5.192226286336374
+Deaths,Global,Both,All Ages,Neonatal preterm birth,Ambient particulate matter pollution,Rate,1997,0.7909706334342195,1.1620430321074862,0.5062071809995062
+Deaths,Global,Both,All Ages,Hemolytic disease and other neonatal jaundice,Ambient particulate matter pollution,Rate,1999,0.0749630202831768,0.1257514892991623,0.04037216138173315
+Deaths,Global,Both,All Ages,Neonatal encephalopathy due to birth asphyxia and trauma,Ambient particulate matter pollution,Rate,1997,0.5028293661572264,0.8109365798452528,0.2900245642321727
+Deaths,Global,Both,All Ages,"Tracheal, bronchus, and lung cancer",Ambient particulate matter pollution,Rate,1998,2.4963177740537823,3.3097346769774547,1.7334266691257105
+Deaths,Global,Both,All Ages,Diarrheal diseases,Ambient particulate matter pollution,Rate,1997,0.09860992906949456,0.17431335846747298,0.05198989089825529
+Deaths,Global,Both,All Ages,Encephalitis,Ambient particulate matter pollution,Rate,1997,0.0018757962881265102,0.002849344431693825,0.0010619718341022082
+Deaths,Global,Both,All Ages,Other neonatal disorders,Ambient particulate matter pollution,Rate,1998,0.3687617794205535,0.589682696793457,0.22175400516676674
+Deaths,Global,Both,All Ages,"Tracheal, bronchus, and lung cancer",Ambient particulate matter pollution,Rate,1997,2.4513367521821956,3.269171380012879,1.6995673974032115
+Deaths,Global,Both,All Ages,Neonatal sepsis and other neonatal infections,Ambient particulate matter pollution,Rate,1997,0.15777389910553577,0.259706584064755,0.08914852400203699
+Deaths,Global,Both,All Ages,Upper respiratory infections,Ambient particulate matter pollution,Rate,1997,0.0003970574949284457,0.0007262313478251195,0.00014900698168081412
+Deaths,Global,Both,All Ages,Hemolytic disease and other neonatal jaundice,Ambient particulate matter pollution,Rate,1997,0.07399046326195649,0.12896449043337507,0.039220498839070375
+Deaths,Global,Both,All Ages,Diabetes mellitus type 2,Ambient particulate matter pollution,Rate,1995,1.2106971000108455,1.6770636182468899,0.8268289150730582
+Deaths,Global,Both,All Ages,Intracerebral hemorrhage,Ambient particulate matter pollution,Rate,1998,5.325123421593369,7.068356373860262,3.719266806077593
+Deaths,Global,Both,All Ages,Ischemic stroke,Ambient particulate matter pollution,Rate,1999,4.7039426020503186,5.840279737441928,3.498026475204728
+Deaths,Global,Both,All Ages,Subarachnoid hemorrhage,Ambient particulate matter pollution,Rate,1999,1.0284239221747644,1.4142957237719993,0.6880949912241628
+Deaths,Global,Both,All Ages,Diabetes mellitus type 2,Ambient particulate matter pollution,Rate,1999,1.385978682522553,1.8920073795846348,0.9554419857613641
+Deaths,Global,Both,All Ages,Sudden infant death syndrome,Ambient particulate matter pollution,Rate,1998,0.003678371730732273,0.008971709993405165,0.001610484866545926
+Deaths,Global,Both,All Ages,Ischemic heart disease,Ambient particulate matter pollution,Rate,1998,11.949900479939759,14.863934426019254,9.235154724029409
+Deaths,Global,Both,All Ages,"Tracheal, bronchus, and lung cancer",Ambient particulate matter pollution,Rate,2000,2.6330491963031095,3.4561569626659066,1.8371375474424154
+Deaths,Global,Both,All Ages,Chronic obstructive pulmonary disease,Ambient particulate matter pollution,Rate,1998,7.4778227464844615,10.204426064594957,5.0116671452170465
+Deaths,Global,Both,All Ages,Diabetes mellitus type 2,Ambient particulate matter pollution,Rate,2001,1.4682953363305815,2.003386427346265,1.0093186147534823
+Deaths,Global,Both,All Ages,Ischemic stroke,Ambient particulate matter pollution,Rate,2000,4.8219163731859105,5.933449075494086,3.613198706988068
+Deaths,Global,Both,All Ages,Subarachnoid hemorrhage,Ambient particulate matter pollution,Rate,2000,0.999600876939337,1.3536678371480064,0.6755635050457788
+Deaths,Global,Both,All Ages,Diarrheal diseases,Ambient particulate matter pollution,Rate,2002,0.08840014430994034,0.15109471508162733,0.04946618633174692
+Deaths,Global,Both,All Ages,Encephalitis,Ambient particulate matter pollution,Rate,2002,0.0019099429267599888,0.0028361857701155154,0.0011693626606389387
+Deaths,Global,Both,All Ages,Neonatal sepsis and other neonatal infections,Ambient particulate matter pollution,Rate,2002,0.16774450728151624,0.26498757198142964,0.10130074731860876
+Deaths,Global,Both,All Ages,Hemolytic disease and other neonatal jaundice,Ambient particulate matter pollution,Rate,2002,0.07489632157559215,0.12297373710485861,0.04271865770246356
+Deaths,Global,Both,All Ages,Lower respiratory infections,Ambient particulate matter pollution,Rate,2001,4.466650826330292,6.767457969809436,2.8943746641257317
+Deaths,Global,Both,All Ages,Other neonatal disorders,Ambient particulate matter pollution,Rate,2001,0.38132217662542334,0.5913160411588787,0.2350929720462276
+Deaths,Global,Both,All Ages,Lower respiratory infections,Ambient particulate matter pollution,Rate,2002,4.380545163630857,6.573506687137259,2.853382319231143
+Deaths,Global,Both,All Ages,Ischemic heart disease,Ambient particulate matter pollution,Rate,2000,12.275914602872593,15.105246470140457,9.512792850038252
+Deaths,Global,Both,All Ages,Otitis media,Ambient particulate matter pollution,Rate,2000,0.0001540167069002133,0.0005540403796556529,1.6524169834419775e-05
+Deaths,Global,Both,All Ages,Meningitis,Ambient particulate matter pollution,Rate,2000,0.016344921725355375,0.026892753662818385,0.009281337279628798
+Deaths,Global,Both,All Ages,Neonatal preterm birth,Ambient particulate matter pollution,Rate,2000,0.7797404772793154,1.1399077359546,0.5098247186785599
+Deaths,Global,Both,All Ages,Other neonatal disorders,Ambient particulate matter pollution,Rate,2002,0.3841824603895766,0.5873041563480309,0.24008865968485743
+Deaths,Global,Both,All Ages,Ischemic stroke,Ambient particulate matter pollution,Rate,2002,5.036076342917214,6.161162010295884,3.849902032538537
+Deaths,Global,Both,All Ages,Neonatal encephalopathy due to birth asphyxia and trauma,Ambient particulate matter pollution,Rate,2000,0.5329015899051814,0.833055947571285,0.3175115660235483
+Deaths,Global,Both,All Ages,Ischemic heart disease,Ambient particulate matter pollution,Rate,2001,12.461810129733719,15.236968704138256,9.756214830183927
+Deaths,Global,Both,All Ages,Diarrheal diseases,Ambient particulate matter pollution,Rate,2000,0.09418562995899961,0.163284880805546,0.05094535260246523
+Deaths,Global,Both,All Ages,Subarachnoid hemorrhage,Ambient particulate matter pollution,Rate,2002,0.8878148369717181,1.180917374985503,0.6184563532605301
+Deaths,Global,Both,All Ages,Chronic obstructive pulmonary disease,Ambient particulate matter pollution,Rate,2000,7.736796656207559,10.340055200336268,5.335857949573609
+Deaths,Global,Both,All Ages,Encephalitis,Ambient particulate matter pollution,Rate,2000,0.0019371892612710998,0.00286908642221094,0.0011330351472527101
+Deaths,Global,Both,All Ages,Chronic obstructive pulmonary disease,Ambient particulate matter pollution,Rate,2001,7.784550644957092,10.347789037189012,5.427269954229938
+Deaths,Global,Both,All Ages,Intracerebral hemorrhage,Ambient particulate matter pollution,Rate,2000,5.829820674490563,7.657742006720939,4.138489930987637
+Deaths,Global,Both,All Ages,Upper respiratory infections,Ambient particulate matter pollution,Rate,2001,0.00028904611878316716,0.000510059230718696,0.00012237980705955193
+Deaths,Global,Both,All Ages,Lower respiratory infections,Ambient particulate matter pollution,Rate,2000,4.579812824434293,6.953046156897763,2.9827699288545966
+Deaths,Global,Both,All Ages,Other neonatal disorders,Ambient particulate matter pollution,Rate,2000,0.3807518528101635,0.5961958834122352,0.2294621054776871
+Deaths,Global,Both,All Ages,Neonatal sepsis and other neonatal infections,Ambient particulate matter pollution,Rate,2000,0.16641639546097892,0.26951572885457464,0.09732159647994311
+Deaths,Global,Both,All Ages,Hemolytic disease and other neonatal jaundice,Ambient particulate matter pollution,Rate,2000,0.07524023336507968,0.12706177838242286,0.04091731498160963
+Deaths,Global,Both,All Ages,Ischemic heart disease,Ambient particulate matter pollution,Rate,2002,12.734851898379892,15.579119993888472,9.955520185424664
+Deaths,Global,Both,All Ages,Sudden infant death syndrome,Ambient particulate matter pollution,Rate,2000,0.0035552647116802835,0.008711604113214632,0.001561796221280271
+Deaths,Global,Both,All Ages,Chronic obstructive pulmonary disease,Ambient particulate matter pollution,Rate,2002,7.83103749663736,10.314718778458436,5.590260836362508
+Deaths,Global,Both,All Ages,Intracerebral hemorrhage,Ambient particulate matter pollution,Rate,2001,6.034860292350459,7.7988721470820614,4.288080679369412
+Deaths,Global,Both,All Ages,Upper respiratory infections,Ambient particulate matter pollution,Rate,2002,0.0002598932202385118,0.00045780151960077894,0.00011479694853386802
+Deaths,Global,Both,All Ages,Otitis media,Ambient particulate matter pollution,Rate,2001,0.00013712416167944338,0.00047917999256635776,1.369373114874369e-05
+Deaths,Global,Both,All Ages,Meningitis,Ambient particulate matter pollution,Rate,2001,0.016323185919947986,0.026675440075110843,0.009374301562767556
+Deaths,Global,Both,All Ages,Diabetes mellitus type 2,Ambient particulate matter pollution,Rate,2000,1.4262670622768359,1.9420748365483755,0.9713702577899016
+Deaths,Global,Both,All Ages,Sudden infant death syndrome,Ambient particulate matter pollution,Rate,2001,0.003473966753423601,0.008445395709155989,0.0015457982494838309
+Deaths,Global,Both,All Ages,Neonatal preterm birth,Ambient particulate matter pollution,Rate,2001,0.768603124754387,1.1140953845496937,0.501812986731351
+Deaths,Global,Both,All Ages,Neonatal encephalopathy due to birth asphyxia and trauma,Ambient particulate matter pollution,Rate,2001,0.5335504609810359,0.828775914320289,0.318692196539177
+Deaths,Global,Both,All Ages,Diabetes mellitus type 2,Ambient particulate matter pollution,Rate,2002,1.5222870842389797,2.0751248617070113,1.0481773064411086
+Deaths,Global,Both,All Ages,"Tracheal, bronchus, and lung cancer",Ambient particulate matter pollution,Rate,2001,2.682489521746056,3.5208199261993522,1.8806061762078568
+Deaths,Global,Both,All Ages,Upper respiratory infections,Ambient particulate matter pollution,Rate,2000,0.00032067682296260083,0.0005705690960071606,0.00012741153289759009
+Deaths,Global,Both,All Ages,Intracerebral hemorrhage,Ambient particulate matter pollution,Rate,2002,6.273215868263693,8.061544634702374,4.487350997122002
+Deaths,Global,Both,All Ages,Diarrheal diseases,Ambient particulate matter pollution,Rate,2001,0.09129670131520924,0.1579776854579945,0.05063595352451685
+Deaths,Global,Both,All Ages,Encephalitis,Ambient particulate matter pollution,Rate,2001,0.001924818250225299,0.0028268442856054983,0.0011551613414049753
+Deaths,Global,Both,All Ages,Neonatal sepsis and other neonatal infections,Ambient particulate matter pollution,Rate,2001,0.16700632871195972,0.2659858826498059,0.09944584201677935
+Deaths,Global,Both,All Ages,Hemolytic disease and other neonatal jaundice,Ambient particulate matter pollution,Rate,2001,0.07501791730765023,0.12545528657616992,0.041948713219164886
+Deaths,Global,Both,All Ages,Sudden infant death syndrome,Ambient particulate matter pollution,Rate,2002,0.003390940054054073,0.008249879103105364,0.0015242313697851706
+Deaths,Global,Both,All Ages,Otitis media,Ambient particulate matter pollution,Rate,2002,0.0001243928547810303,0.00044402252967653833,1.1962105177251118e-05
+Deaths,Global,Both,All Ages,Meningitis,Ambient particulate matter pollution,Rate,2002,0.016295765283806062,0.02670828734971417,0.009486873938939955
+Deaths,Global,Both,All Ages,Neonatal preterm birth,Ambient particulate matter pollution,Rate,2002,0.7600756177742203,1.0979280225825514,0.4986720234463249
+Deaths,Global,Both,All Ages,Neonatal encephalopathy due to birth asphyxia and trauma,Ambient particulate matter pollution,Rate,2002,0.5342956331155017,0.8226778631628598,0.32068582846627347
+Deaths,Global,Both,All Ages,Ischemic stroke,Ambient particulate matter pollution,Rate,2001,4.923515209549476,6.047769458481138,3.756008589215555
+Deaths,Global,Both,All Ages,Subarachnoid hemorrhage,Ambient particulate matter pollution,Rate,2001,0.9444041130444591,1.258652003774965,0.6514839528301056
+Deaths,Global,Both,All Ages,"Tracheal, bronchus, and lung cancer",Ambient particulate matter pollution,Rate,2002,2.7485846895449226,3.5741176495469866,1.9556822741624211
+Deaths,Global,Both,All Ages,Encephalitis,Ambient particulate matter pollution,Rate,2006,0.0018572667223943386,0.0026014064415343903,0.0012323194395016679
+Deaths,Global,Both,All Ages,Hemolytic disease and other neonatal jaundice,Ambient particulate matter pollution,Rate,2006,0.07273725763444004,0.11117116508030929,0.0437642475499955
+Deaths,Global,Both,All Ages,Diarrheal diseases,Ambient particulate matter pollution,Rate,2006,0.07861087984825914,0.12835813219954395,0.045859279353927515
+Deaths,Global,Both,All Ages,Intracerebral hemorrhage,Ambient particulate matter pollution,Rate,2003,6.421756082075155,8.236246347156111,4.642135484614102
+Deaths,Global,Both,All Ages,Neonatal sepsis and other neonatal infections,Ambient particulate matter pollution,Rate,2006,0.16964843812619917,0.2602697274274801,0.10648163107126454
+Deaths,Global,Both,All Ages,Lower respiratory infections,Ambient particulate matter pollution,Rate,2005,4.196861382459978,6.127705926444797,2.7849692486868403
+Deaths,Global,Both,All Ages,Hemolytic disease and other neonatal jaundice,Ambient particulate matter pollution,Rate,2004,0.07374249054048554,0.1167314060310726,0.042459546890944715
+Deaths,Global,Both,All Ages,Sudden infant death syndrome,Ambient particulate matter pollution,Rate,2007,0.0031856164939215383,0.007213719316660003,0.0015184487609820588
+Deaths,Global,Both,All Ages,Neonatal preterm birth,Ambient particulate matter pollution,Rate,2004,0.7431698071002716,1.0484329546405222,0.4924336815631026
+Deaths,Global,Both,All Ages,Neonatal encephalopathy due to birth asphyxia and trauma,Ambient particulate matter pollution,Rate,2004,0.5333826374173863,0.8096829765409657,0.3225969726118215
+Deaths,Global,Both,All Ages,Ischemic stroke,Ambient particulate matter pollution,Rate,2006,5.233946347253934,6.246044609803151,4.079548296504958
+Deaths,Global,Both,All Ages,Subarachnoid hemorrhage,Ambient particulate matter pollution,Rate,2006,0.7550663419131894,0.9852247033088075,0.549861688660537
+Deaths,Global,Both,All Ages,"Tracheal, bronchus, and lung cancer",Ambient particulate matter pollution,Rate,2004,2.8738076698802963,3.728333471471489,2.0451398446217435
+Deaths,Global,Both,All Ages,Upper respiratory infections,Ambient particulate matter pollution,Rate,2005,0.00019806905159910253,0.0003445786280804257,9.662458030773782e-05
+Deaths,Global,Both,All Ages,Neonatal sepsis and other neonatal infections,Ambient particulate matter pollution,Rate,2004,0.16958363773145887,0.26684808839824997,0.1037852414501777
+Deaths,Global,Both,All Ages,Lower respiratory infections,Ambient particulate matter pollution,Rate,2006,4.169382631576822,6.057212870293747,2.814949045759187
+Deaths,Global,Both,All Ages,Upper respiratory infections,Ambient particulate matter pollution,Rate,2003,0.00023505897203664644,0.00041757584957092186,0.00010662831230390994
+Deaths,Global,Both,All Ages,Chronic obstructive pulmonary disease,Ambient particulate matter pollution,Rate,2005,7.76231624958591,9.912951802044967,5.738511811314329
+Deaths,Global,Both,All Ages,Encephalitis,Ambient particulate matter pollution,Rate,2004,0.0018899032120067278,0.0027593711145328676,0.0011857038869577622
+Deaths,Global,Both,All Ages,"Tracheal, bronchus, and lung cancer",Ambient particulate matter pollution,Rate,2003,2.8082547544694156,3.6792558316038404,1.9927699178221208
+Deaths,Global,Both,All Ages,Other neonatal disorders,Ambient particulate matter pollution,Rate,2005,0.39171058795423375,0.5887313339733914,0.24828188776166366
+Deaths,Global,Both,All Ages,Upper respiratory infections,Ambient particulate matter pollution,Rate,2007,0.00017619009703104645,0.00029794218139403205,9.442821827167328e-05
+Deaths,Global,Both,All Ages,Neonatal encephalopathy due to birth asphyxia and trauma,Ambient particulate matter pollution,Rate,2008,0.5318162039939607,0.7804925234424269,0.3393407104111773
+Deaths,Global,Both,All Ages,Diarrheal diseases,Ambient particulate matter pollution,Rate,2003,0.08592593653534734,0.14676434657399312,0.048663025321105245
+Deaths,Global,Both,All Ages,Ischemic stroke,Ambient particulate matter pollution,Rate,2003,5.1347159720611115,6.277893644914151,3.9670464998411377
+Deaths,Global,Both,All Ages,Subarachnoid hemorrhage,Ambient particulate matter pollution,Rate,2003,0.8306475218227432,1.102938320296114,0.5856164342098402
+Deaths,Global,Both,All Ages,Otitis media,Ambient particulate matter pollution,Rate,2008,8.915433216346287e-05,0.00034828628391442203,7.46748449459701e-06
+Deaths,Global,Both,All Ages,Neonatal preterm birth,Ambient particulate matter pollution,Rate,2005,0.7356797934240926,1.0391713700954075,0.489416393248632
+Deaths,Global,Both,All Ages,Neonatal preterm birth,Ambient particulate matter pollution,Rate,2008,0.7413482033070841,1.0161830047982732,0.513173227278333
+Deaths,Global,Both,All Ages,Encephalitis,Ambient particulate matter pollution,Rate,2003,0.001895994109370888,0.002791669547868532,0.0011696341540135987
+Deaths,Global,Both,All Ages,Meningitis,Ambient particulate matter pollution,Rate,2008,0.016372628264770307,0.025456436194084452,0.010086736646422746
+Deaths,Global,Both,All Ages,Chronic obstructive pulmonary disease,Ambient particulate matter pollution,Rate,2003,7.815485635113067,10.172547881584789,5.695549340578192
+Deaths,Global,Both,All Ages,Other neonatal disorders,Ambient particulate matter pollution,Rate,2004,0.39034979074141263,0.5855874062851062,0.24829222236971482
+Deaths,Global,Both,All Ages,Sudden infant death syndrome,Ambient particulate matter pollution,Rate,2003,0.0033194418784697455,0.007975999860508669,0.0015014266301486264
+Deaths,Global,Both,All Ages,Lower respiratory infections,Ambient particulate matter pollution,Rate,2004,4.220370755427247,6.199255652186925,2.7960253726014024
+Deaths,Global,Both,All Ages,Other neonatal disorders,Ambient particulate matter pollution,Rate,2006,0.3948103594907183,0.5902923180342939,0.25484343857260977
+Deaths,Global,Both,All Ages,Diarrheal diseases,Ambient particulate matter pollution,Rate,2004,0.08341051483211966,0.14227508447738,0.048130881679738384
+Deaths,Global,Both,All Ages,Ischemic heart disease,Ambient particulate matter pollution,Rate,2003,12.929827352227871,15.762656933471261,10.231315701332647
+Deaths,Global,Both,All Ages,Otitis media,Ambient particulate matter pollution,Rate,2004,0.0001050721229055953,0.00037340454546105835,9.742870448937448e-06
+Deaths,Global,Both,All Ages,Other neonatal disorders,Ambient particulate matter pollution,Rate,2003,0.38711658223922885,0.5836872088592606,0.24462931640060687
+Deaths,Global,Both,All Ages,Meningitis,Ambient particulate matter pollution,Rate,2004,0.016339153278876806,0.026661622654138913,0.009562666781464288
+Deaths,Global,Both,All Ages,Neonatal sepsis and other neonatal infections,Ambient particulate matter pollution,Rate,2003,0.16857652640271056,0.26701365206354877,0.10181708173959006
+Deaths,Global,Both,All Ages,Ischemic heart disease,Ambient particulate matter pollution,Rate,2006,13.336624775319992,16.13950562950292,10.57981684910529
+Deaths,Global,Both,All Ages,"Tracheal, bronchus, and lung cancer",Ambient particulate matter pollution,Rate,2005,2.9446726353055164,3.8301122909353458,2.114806147734226
+Deaths,Global,Both,All Ages,Diabetes mellitus type 2,Ambient particulate matter pollution,Rate,2004,1.5915074048080464,2.1433563650893945,1.1021967782523598
+Deaths,Global,Both,All Ages,"Tracheal, bronchus, and lung cancer",Ambient particulate matter pollution,Rate,2008,3.2059837739602832,4.044182720480959,2.3165437440156538
+Deaths,Global,Both,All Ages,Otitis media,Ambient particulate matter pollution,Rate,2005,9.7303314825095e-05,0.00033871140409494994,8.63362863749752e-06
+Deaths,Global,Both,All Ages,Meningitis,Ambient particulate matter pollution,Rate,2005,0.01633851127754334,0.026490664327187736,0.009520460267952214
+Deaths,Global,Both,All Ages,Diabetes mellitus type 2,Ambient particulate matter pollution,Rate,2003,1.566176233802495,2.1256783793275305,1.0780202809591195
+Deaths,Global,Both,All Ages,Lower respiratory infections,Ambient particulate matter pollution,Rate,2003,4.297566933051538,6.390475992575644,2.8047738472946553
+Deaths,Global,Both,All Ages,Upper respiratory infections,Ambient particulate matter pollution,Rate,2006,0.00018569621785315707,0.00031725928493528486,9.553088871478724e-05
+Deaths,Global,Both,All Ages,Upper respiratory infections,Ambient particulate matter pollution,Rate,2004,0.00021473364235890713,0.0003769118651767189,0.000101265579123799
+Deaths,Global,Both,All Ages,Ischemic heart disease,Ambient particulate matter pollution,Rate,2005,13.214947650565549,16.049638489529023,10.409472965701536
+Deaths,Global,Both,All Ages,Otitis media,Ambient particulate matter pollution,Rate,2003,0.0001134311164426616,0.0003958428103783746,1.0708785937145056e-05
+Deaths,Global,Both,All Ages,Meningitis,Ambient particulate matter pollution,Rate,2003,0.0163801912637903,0.02671792392409811,0.009483483146033398
+Deaths,Global,Both,All Ages,Diabetes mellitus type 2,Ambient particulate matter pollution,Rate,2005,1.6425062973840145,2.2255970006823476,1.1334220590448496
+Deaths,Global,Both,All Ages,Neonatal encephalopathy due to birth asphyxia and trauma,Ambient particulate matter pollution,Rate,2005,0.5324124949973534,0.7938545460757404,0.3236624621612081
+Deaths,Global,Both,All Ages,Chronic obstructive pulmonary disease,Ambient particulate matter pollution,Rate,2006,7.69953089155497,9.667617661412717,5.833802124180042
+Deaths,Global,Both,All Ages,Ischemic stroke,Ambient particulate matter pollution,Rate,2004,5.178446715068884,6.28259669096452,4.033105378262423
+Deaths,Global,Both,All Ages,Subarachnoid hemorrhage,Ambient particulate matter pollution,Rate,2004,0.7869742390333714,1.03585277298921,0.5621865736922372
+Deaths,Global,Both,All Ages,Diarrheal diseases,Ambient particulate matter pollution,Rate,2008,0.07489022654599775,0.11881640331183292,0.04544155712686537
+Deaths,Global,Both,All Ages,Intracerebral hemorrhage,Ambient particulate matter pollution,Rate,2007,6.621869367171849,8.192897701553706,4.968978137598398
+Deaths,Global,Both,All Ages,Hemolytic disease and other neonatal jaundice,Ambient particulate matter pollution,Rate,2003,0.07438779843892593,0.11973627143378159,0.042408759144511414
+Deaths,Global,Both,All Ages,Encephalitis,Ambient particulate matter pollution,Rate,2005,0.0018850207373622481,0.002704358137216407,0.0012006137212943687
+Deaths,Global,Both,All Ages,Neonatal encephalopathy due to birth asphyxia and trauma,Ambient particulate matter pollution,Rate,2003,0.5342223472923237,0.8132552677338208,0.3230842757977444
+Deaths,Global,Both,All Ages,Neonatal preterm birth,Ambient particulate matter pollution,Rate,2003,0.7517913242267078,1.074439813413369,0.4934335265977521
+Deaths,Global,Both,All Ages,Neonatal preterm birth,Ambient particulate matter pollution,Rate,2006,0.7340793018450675,1.0304587440376645,0.4936167966271238
+Deaths,Global,Both,All Ages,Intracerebral hemorrhage,Ambient particulate matter pollution,Rate,2005,6.595222190329019,8.33595924518561,4.777216174207597
+Deaths,Global,Both,All Ages,Intracerebral hemorrhage,Ambient particulate matter pollution,Rate,2004,6.527081794442505,8.17820154385847,4.715537389749206
+Deaths,Global,Both,All Ages,Neonatal sepsis and other neonatal infections,Ambient particulate matter pollution,Rate,2005,0.1709101184690459,0.2667742530073194,0.10613945976443162
+Deaths,Global,Both,All Ages,Hemolytic disease and other neonatal jaundice,Ambient particulate matter pollution,Rate,2005,0.07244780588076039,0.11279969309091806,0.042380197236588535
+Deaths,Global,Both,All Ages,Meningitis,Ambient particulate matter pollution,Rate,2006,0.01639868182168075,0.026194565763351003,0.009717890625907496
+Deaths,Global,Both,All Ages,Chronic obstructive pulmonary disease,Ambient particulate matter pollution,Rate,2004,7.7559400292608665,9.996198403378589,5.704053192713011
+Deaths,Global,Both,All Ages,Diarrheal diseases,Ambient particulate matter pollution,Rate,2005,0.0807172122134167,0.13615423668317672,0.045884702964831915
+Deaths,Global,Both,All Ages,Encephalitis,Ambient particulate matter pollution,Rate,2008,0.001842150035521634,0.00254533802207201,0.0012899803955349351
+Deaths,Global,Both,All Ages,Ischemic heart disease,Ambient particulate matter pollution,Rate,2004,12.951942543667949,15.771414538134549,10.279662132736252
+Deaths,Global,Both,All Ages,Sudden infant death syndrome,Ambient particulate matter pollution,Rate,2004,0.0032652278508494012,0.007692697994650794,0.0015087513870249813
+Deaths,Global,Both,All Ages,Hemolytic disease and other neonatal jaundice,Ambient particulate matter pollution,Rate,2008,0.07372524529530011,0.11083374131560848,0.04578428949667744
+Deaths,Global,Both,All Ages,Intracerebral hemorrhage,Ambient particulate matter pollution,Rate,2006,6.547455392558173,8.073458344470039,4.898093259298997
+Deaths,Global,Both,All Ages,Neonatal sepsis and other neonatal infections,Ambient particulate matter pollution,Rate,2008,0.1698991319280526,0.25586183797954754,0.10900875994118556
+Deaths,Global,Both,All Ages,Sudden infant death syndrome,Ambient particulate matter pollution,Rate,2005,0.003218914566348649,0.007632977471420628,0.0014977693252239313
+Deaths,Global,Both,All Ages,Neonatal encephalopathy due to birth asphyxia and trauma,Ambient particulate matter pollution,Rate,2006,0.5308760496243088,0.7896866421326516,0.3245685396498005
+Deaths,Global,Both,All Ages,Lower respiratory infections,Ambient particulate matter pollution,Rate,2009,4.207567100474321,5.927656943090077,2.9371305640078793
+Deaths,Global,Both,All Ages,"Tracheal, bronchus, and lung cancer",Ambient particulate matter pollution,Rate,2006,2.990228353714761,3.8390014210116643,2.160340229037086
+Deaths,Global,Both,All Ages,Ischemic stroke,Ambient particulate matter pollution,Rate,2005,5.263764654580283,6.386029589489981,4.09740259586902
+Deaths,Global,Both,All Ages,Other neonatal disorders,Ambient particulate matter pollution,Rate,2009,0.40845833190056546,0.5866064468136755,0.27695910723790346
+Deaths,Global,Both,All Ages,Subarachnoid hemorrhage,Ambient particulate matter pollution,Rate,2005,0.7666594288893755,1.002847321862295,0.5544355332210579
+Deaths,Global,Both,All Ages,Otitis media,Ambient particulate matter pollution,Rate,2007,9.05685025690749e-05,0.00034192510895744466,7.541319306790605e-06
+Deaths,Global,Both,All Ages,Ischemic heart disease,Ambient particulate matter pollution,Rate,2009,14.439144049247515,17.05952976496706,11.768808399986607
+Deaths,Global,Both,All Ages,Meningitis,Ambient particulate matter pollution,Rate,2007,0.016452620489864893,0.025895426778839943,0.009927229503732945
+Deaths,Global,Both,All Ages,Upper respiratory infections,Ambient particulate matter pollution,Rate,2009,0.00016114509334934062,0.0002651603629666625,8.950394578006639e-05
+Deaths,Global,Both,All Ages,Diabetes mellitus type 2,Ambient particulate matter pollution,Rate,2007,1.717612227912106,2.291889762372676,1.2004783866405324
+Deaths,Global,Both,All Ages,Neonatal preterm birth,Ambient particulate matter pollution,Rate,2007,0.7358898989873993,1.0195328607841412,0.5013709334390108
+Deaths,Global,Both,All Ages,Neonatal encephalopathy due to birth asphyxia and trauma,Ambient particulate matter pollution,Rate,2007,0.5289378409493027,0.780544702624152,0.3333277095981674
+Deaths,Global,Both,All Ages,Ischemic stroke,Ambient particulate matter pollution,Rate,2008,5.466475870229696,6.491520734575816,4.432824897947041
+Deaths,Global,Both,All Ages,Subarachnoid hemorrhage,Ambient particulate matter pollution,Rate,2008,0.7673043265711841,0.9808823128556924,0.5733132531146122
+Deaths,Global,Both,All Ages,Chronic obstructive pulmonary disease,Ambient particulate matter pollution,Rate,2009,7.98853044347161,9.910042051010198,6.317323616392606
+Deaths,Global,Both,All Ages,Diabetes mellitus type 2,Ambient particulate matter pollution,Rate,2006,1.6746124837030123,2.250749926173283,1.156398086472705
+Deaths,Global,Both,All Ages,Diarrheal diseases,Ambient particulate matter pollution,Rate,2009,0.07295929329729944,0.11276944904576294,0.04525275521314264
+Deaths,Global,Both,All Ages,Otitis media,Ambient particulate matter pollution,Rate,2009,8.77883126949289e-05,0.0003319788071896118,6.905420844942706e-06
+Deaths,Global,Both,All Ages,Sudden infant death syndrome,Ambient particulate matter pollution,Rate,2010,0.003145514948622373,0.006814148073026582,0.0015119948477506488
+Deaths,Global,Both,All Ages,Encephalitis,Ambient particulate matter pollution,Rate,2009,0.0018370576588599347,0.0025260659107841244,0.0013072155938307116
+Deaths,Global,Both,All Ages,Sudden infant death syndrome,Ambient particulate matter pollution,Rate,2006,0.003195114183528351,0.007376170153505215,0.0015003334690066946
+Deaths,Global,Both,All Ages,Meningitis,Ambient particulate matter pollution,Rate,2009,0.016706494675805563,0.026049607177269764,0.010384464993838511
+Deaths,Global,Both,All Ages,Diarrheal diseases,Ambient particulate matter pollution,Rate,2010,0.07092765440842155,0.10909938341161184,0.04419319752227883
+Deaths,Global,Both,All Ages,"Tracheal, bronchus, and lung cancer",Ambient particulate matter pollution,Rate,2007,3.0858604067897546,3.9472805706759067,2.228626626364992
+Deaths,Global,Both,All Ages,Encephalitis,Ambient particulate matter pollution,Rate,2010,0.0018176526444790265,0.002508462322362829,0.0012931258698402396
+Deaths,Global,Both,All Ages,Neonatal sepsis and other neonatal infections,Ambient particulate matter pollution,Rate,2010,0.1725769140045405,0.2560758464047335,0.11311486242172981
+Deaths,Global,Both,All Ages,Intracerebral hemorrhage,Ambient particulate matter pollution,Rate,2009,6.910965639061674,8.372708388318305,5.333130936201188
+Deaths,Global,Both,All Ages,Neonatal sepsis and other neonatal infections,Ambient particulate matter pollution,Rate,2009,0.17165444272026012,0.25636928269425696,0.11145525116348483
+Deaths,Global,Both,All Ages,Hemolytic disease and other neonatal jaundice,Ambient particulate matter pollution,Rate,2009,0.0738978903504914,0.10970405754020685,0.0468306670671796
+Deaths,Global,Both,All Ages,Hemolytic disease and other neonatal jaundice,Ambient particulate matter pollution,Rate,2010,0.07426590676006582,0.1079848123427772,0.047680927899557156
+Deaths,Global,Both,All Ages,Neonatal preterm birth,Ambient particulate matter pollution,Rate,2009,0.7462562652455372,1.016809193567655,0.5203035735944052
+Deaths,Global,Both,All Ages,Neonatal encephalopathy due to birth asphyxia and trauma,Ambient particulate matter pollution,Rate,2009,0.533593016167125,0.7786879254806017,0.3438108259837916
+Deaths,Global,Both,All Ages,Upper respiratory infections,Ambient particulate matter pollution,Rate,2008,0.00016794939307967292,0.0002824409767642384,9.19472049184491e-05
+Deaths,Global,Both,All Ages,Diabetes mellitus type 2,Ambient particulate matter pollution,Rate,2009,1.8258086487130913,2.422303678263227,1.267977308597512
+Deaths,Global,Both,All Ages,Lower respiratory infections,Ambient particulate matter pollution,Rate,2007,4.165997107112634,6.042370608132367,2.832514379666991
+Deaths,Global,Both,All Ages,Ischemic stroke,Ambient particulate matter pollution,Rate,2010,5.775817482005542,6.779198439299099,4.681260966894485
+Deaths,Global,Both,All Ages,Subarachnoid hemorrhage,Ambient particulate matter pollution,Rate,2010,0.7934965691204435,1.0022788834822334,0.5989230242685866
+Deaths,Global,Both,All Ages,Diabetes mellitus type 2,Ambient particulate matter pollution,Rate,2010,1.8734786594407546,2.478340209511774,1.290580617605568
+Deaths,Global,Both,All Ages,"Tracheal, bronchus, and lung cancer",Ambient particulate matter pollution,Rate,2009,3.3222497864841354,4.2040595454115595,2.4147224362338062
+Deaths,Global,Both,All Ages,Sudden infant death syndrome,Ambient particulate matter pollution,Rate,2009,0.003163131514528243,0.0068691594559739805,0.0015384223131130477
+Deaths,Global,Both,All Ages,Other neonatal disorders,Ambient particulate matter pollution,Rate,2007,0.39993582831756863,0.5780077157431175,0.2629553381980751
+Deaths,Global,Both,All Ages,Ischemic stroke,Ambient particulate matter pollution,Rate,2009,5.606961695965431,6.612374309658453,4.531844234052544
+Deaths,Global,Both,All Ages,Subarachnoid hemorrhage,Ambient particulate matter pollution,Rate,2009,0.7766975531943996,0.9912506341244519,0.5825860053547149
+Deaths,Global,Both,All Ages,Otitis media,Ambient particulate matter pollution,Rate,2006,9.332878882613856e-05,0.0003332959205964801,7.975536120869954e-06
+Deaths,Global,Both,All Ages,Diarrheal diseases,Ambient particulate matter pollution,Rate,2007,0.07681177566012579,0.12248079819316629,0.04560400822335357
+Deaths,Global,Both,All Ages,Lower respiratory infections,Ambient particulate matter pollution,Rate,2008,4.204853554235863,5.9746220439211095,2.8939980833108803
+Deaths,Global,Both,All Ages,Encephalitis,Ambient particulate matter pollution,Rate,2007,0.0018439719012831074,0.002572907112499078,0.0012603281966966449
+Deaths,Global,Both,All Ages,Intracerebral hemorrhage,Ambient particulate matter pollution,Rate,2008,6.78533448446532,8.249692547200103,5.242273251001119
+Deaths,Global,Both,All Ages,Ischemic heart disease,Ambient particulate matter pollution,Rate,2007,13.640754572628085,16.45754850591019,10.842751746816225
+Deaths,Global,Both,All Ages,Neonatal sepsis and other neonatal infections,Ambient particulate matter pollution,Rate,2007,0.16999732508376442,0.25742828913639715,0.10757775067196304
+Deaths,Global,Both,All Ages,Hemolytic disease and other neonatal jaundice,Ambient particulate matter pollution,Rate,2007,0.07303664755283097,0.11085794341099897,0.044021753797445724
+Deaths,Global,Both,All Ages,Other neonatal disorders,Ambient particulate matter pollution,Rate,2008,0.40601927585620035,0.5857677143779381,0.2701793090084042
+Deaths,Global,Both,All Ages,Lower respiratory infections,Ambient particulate matter pollution,Rate,2010,4.209110688086245,5.8853870182465515,2.921392887935287
+Deaths,Global,Both,All Ages,Chronic obstructive pulmonary disease,Ambient particulate matter pollution,Rate,2007,7.748631355265893,9.695816915552776,5.937829606603093
+Deaths,Global,Both,All Ages,Ischemic heart disease,Ambient particulate matter pollution,Rate,2008,14.111976145745285,16.838338982561012,11.360578491925924
+Deaths,Global,Both,All Ages,Sudden infant death syndrome,Ambient particulate matter pollution,Rate,2008,0.0031708657804597135,0.006939700515937724,0.0015229912647672817
+Deaths,Global,Both,All Ages,Other neonatal disorders,Ambient particulate matter pollution,Rate,2010,0.40972225365692033,0.5781497504374224,0.278817111303806
+Deaths,Global,Both,All Ages,Upper respiratory infections,Ambient particulate matter pollution,Rate,2010,0.00015184224088435276,0.0002519421080540025,8.449885212556483e-05
+Deaths,Global,Both,All Ages,Otitis media,Ambient particulate matter pollution,Rate,2010,8.503239210694103e-05,0.00031840119610623173,6.6561612307623755e-06
+Deaths,Global,Both,All Ages,Meningitis,Ambient particulate matter pollution,Rate,2010,0.016646855401052246,0.025858195978151408,0.010393642845030875
+Deaths,Global,Both,All Ages,Neonatal preterm birth,Ambient particulate matter pollution,Rate,2010,0.7463747884123372,1.0136721110246458,0.5256514341028813
+Deaths,Global,Both,All Ages,Ischemic stroke,Ambient particulate matter pollution,Rate,2007,5.303841640718915,6.345695746823394,4.1840486213894446
+Deaths,Global,Both,All Ages,Neonatal encephalopathy due to birth asphyxia and trauma,Ambient particulate matter pollution,Rate,2010,0.5334159712923857,0.7694879346854144,0.34480515383671867
+Deaths,Global,Both,All Ages,Subarachnoid hemorrhage,Ambient particulate matter pollution,Rate,2007,0.7558886990177466,0.9808774033157597,0.5539510690387976
+Deaths,Global,Both,All Ages,"Tracheal, bronchus, and lung cancer",Ambient particulate matter pollution,Rate,2010,3.4282208351530583,4.3385283157961005,2.498792346853595
+Deaths,Global,Both,All Ages,Chronic obstructive pulmonary disease,Ambient particulate matter pollution,Rate,2008,7.925159532714716,9.79692429465018,6.171016502367215
+Deaths,Global,Both,All Ages,Ischemic heart disease,Ambient particulate matter pollution,Rate,2010,14.882898025163808,17.658419082357238,12.178434053029308
+Deaths,Global,Both,All Ages,Intracerebral hemorrhage,Ambient particulate matter pollution,Rate,2010,7.0202971800863985,8.439980041301197,5.444297363318908
+Deaths,Global,Both,All Ages,Chronic obstructive pulmonary disease,Ambient particulate matter pollution,Rate,2010,8.065430908651866,9.991994887370106,6.347231596402203
+Deaths,Global,Both,All Ages,Upper respiratory infections,Ambient particulate matter pollution,Rate,2011,0.00014699616630831083,0.00024005305077846227,8.285279281597834e-05
+Deaths,Global,Both,All Ages,Intracerebral hemorrhage,Ambient particulate matter pollution,Rate,2011,7.0747816410676485,8.499073196376692,5.538841085729268
+Deaths,Global,Both,All Ages,Diabetes mellitus type 2,Ambient particulate matter pollution,Rate,2008,1.7780440830989404,2.364080160117726,1.2408129335383271
+Deaths,Global,Both,All Ages,Sudden infant death syndrome,Ambient particulate matter pollution,Rate,2011,0.0031705644356464636,0.006825657063390924,0.0015238518166022371
+Deaths,Global,Both,All Ages,Otitis media,Ambient particulate matter pollution,Rate,2011,8.294891623669285e-05,0.0003033773229984632,6.62922528431028e-06
+Deaths,Global,Both,All Ages,Meningitis,Ambient particulate matter pollution,Rate,2011,0.01679227715683142,0.025724320276812124,0.01056548283084884
+Deaths,Global,Both,All Ages,Neonatal preterm birth,Ambient particulate matter pollution,Rate,2011,0.754427014765254,1.02096365294685,0.5341922613216017
+Deaths,Global,Both,All Ages,Neonatal encephalopathy due to birth asphyxia and trauma,Ambient particulate matter pollution,Rate,2011,0.5385278007432253,0.77177664801495,0.3548747482189287
+Deaths,Global,Both,All Ages,"Tracheal, bronchus, and lung cancer",Ambient particulate matter pollution,Rate,2011,3.50908423464354,4.411841194918429,2.574210164130768
+Deaths,Global,Both,All Ages,Diarrheal diseases,Ambient particulate matter pollution,Rate,2011,0.068883421400184,0.1039880075765471,0.04403356401799302
+Deaths,Global,Both,All Ages,Encephalitis,Ambient particulate matter pollution,Rate,2011,0.0018106147895557906,0.0024688715369364724,0.001292511130396726
+Deaths,Global,Both,All Ages,Neonatal sepsis and other neonatal infections,Ambient particulate matter pollution,Rate,2011,0.17540073155221397,0.2581078914986263,0.11637243294994964
+Deaths,Global,Both,All Ages,Hemolytic disease and other neonatal jaundice,Ambient particulate matter pollution,Rate,2011,0.07511584603239596,0.1079380843946875,0.048933961649303886
+Deaths,Global,Both,All Ages,Otitis media,Ambient particulate matter pollution,Rate,2012,8.147890624504013e-05,0.00029209817742882995,6.722988161491526e-06
+Deaths,Global,Both,All Ages,Meningitis,Ambient particulate matter pollution,Rate,2012,0.016353946551040787,0.024723045940145093,0.010341310175332644
+Deaths,Global,Both,All Ages,Neonatal preterm birth,Ambient particulate matter pollution,Rate,2012,0.771758974050697,1.0429505140179307,0.5574477709226613
+Deaths,Global,Both,All Ages,Ischemic stroke,Ambient particulate matter pollution,Rate,2011,5.87688016706573,6.900268846528944,4.769841455011904
+Deaths,Global,Both,All Ages,Other neonatal disorders,Ambient particulate matter pollution,Rate,2011,0.4140617305287031,0.5840713410220135,0.285060313627237
+Deaths,Global,Both,All Ages,Diabetes mellitus type 2,Ambient particulate matter pollution,Rate,2013,2.096551569659382,2.762357850963975,1.47356848087484
+Deaths,Global,Both,All Ages,Ischemic heart disease,Ambient particulate matter pollution,Rate,2012,15.61703292870065,18.32377375026818,12.743525608076153
+Deaths,Global,Both,All Ages,Lower respiratory infections,Ambient particulate matter pollution,Rate,2013,4.509069176980761,6.165813701613132,3.186223415431262
+Deaths,Global,Both,All Ages,Encephalitis,Ambient particulate matter pollution,Rate,2012,0.0018215261897319833,0.002485367896411992,0.0012997325398198694
+Deaths,Global,Both,All Ages,Chronic obstructive pulmonary disease,Ambient particulate matter pollution,Rate,2011,8.194795103391465,10.022802159973997,6.541732108424542
+Deaths,Global,Both,All Ages,Other neonatal disorders,Ambient particulate matter pollution,Rate,2013,0.4375375232401637,0.6052089297793264,0.30635212688054736
+Deaths,Global,Both,All Ages,Chronic obstructive pulmonary disease,Ambient particulate matter pollution,Rate,2012,8.364596429184953,10.272983365477836,6.666373780873905
+Deaths,Global,Both,All Ages,Chronic obstructive pulmonary disease,Ambient particulate matter pollution,Rate,2013,8.623506057030434,10.565074488543912,6.9250609357214366
+Deaths,Global,Both,All Ages,Other neonatal disorders,Ambient particulate matter pollution,Rate,2012,0.42413258154441524,0.5892648846672727,0.29449150074490527
+Deaths,Global,Both,All Ages,Diarrheal diseases,Ambient particulate matter pollution,Rate,2012,0.06736861149007314,0.09992744628150314,0.04332205169192214
+Deaths,Global,Both,All Ages,Neonatal encephalopathy due to birth asphyxia and trauma,Ambient particulate matter pollution,Rate,2015,0.5619986706586115,0.7963627083844733,0.3697711472813486
+Deaths,Global,Both,All Ages,Subarachnoid hemorrhage,Ambient particulate matter pollution,Rate,2016,0.8739661142813382,1.0722167115020411,0.672431703958878
+Deaths,Global,Both,All Ages,Subarachnoid hemorrhage,Ambient particulate matter pollution,Rate,2011,0.8116185564621922,1.0207973220456958,0.6211716074763639
+Deaths,Global,Both,All Ages,Neonatal sepsis and other neonatal infections,Ambient particulate matter pollution,Rate,2014,0.18939912029595557,0.2736085391373985,0.1264283152945957
+Deaths,Global,Both,All Ages,Hemolytic disease and other neonatal jaundice,Ambient particulate matter pollution,Rate,2014,0.07723574473154127,0.1059230554607674,0.05214073216950661
+Deaths,Global,Both,All Ages,Subarachnoid hemorrhage,Ambient particulate matter pollution,Rate,2014,0.8629577704027135,1.065880130124259,0.6656107987981217
+Deaths,Global,Both,All Ages,Neonatal preterm birth,Ambient particulate matter pollution,Rate,2015,0.7698060537674405,1.0231568562356672,0.5523134104953534
+Deaths,Global,Both,All Ages,Neonatal encephalopathy due to birth asphyxia and trauma,Ambient particulate matter pollution,Rate,2012,0.5504527853448163,0.7894515278518117,0.36476259781422615
+Deaths,Global,Both,All Ages,Diabetes mellitus type 2,Ambient particulate matter pollution,Rate,2011,1.9350463969733187,2.5571091454036647,1.3424251800801603
+Deaths,Global,Both,All Ages,Otitis media,Ambient particulate matter pollution,Rate,2015,7.529233011614882e-05,0.00027614985310994933,6.658204855190879e-06
+Deaths,Global,Both,All Ages,Meningitis,Ambient particulate matter pollution,Rate,2015,0.015273498216234447,0.022777037965110478,0.009765998574494726
+Deaths,Global,Both,All Ages,Ischemic stroke,Ambient particulate matter pollution,Rate,2014,6.20908430472116,7.277003267354056,5.087326203322876
+Deaths,Global,Both,All Ages,Ischemic stroke,Ambient particulate matter pollution,Rate,2012,5.974204015568515,7.002795104374125,4.894003945408743
+Deaths,Global,Both,All Ages,Ischemic stroke,Ambient particulate matter pollution,Rate,2016,6.285359288070327,7.306007455634195,5.107493902924321
+Deaths,Global,Both,All Ages,Upper respiratory infections,Ambient particulate matter pollution,Rate,2012,0.00014435688679415547,0.00023210034373779707,8.300675640973407e-05
+Deaths,Global,Both,All Ages,Sudden infant death syndrome,Ambient particulate matter pollution,Rate,2013,0.0032595599771443455,0.007074186135088312,0.0015668187526920812
+Deaths,Global,Both,All Ages,"Tracheal, bronchus, and lung cancer",Ambient particulate matter pollution,Rate,2012,3.581650758953041,4.49507964759769,2.6187278906464795
+Deaths,Global,Both,All Ages,Sudden infant death syndrome,Ambient particulate matter pollution,Rate,2015,0.00319423335885209,0.006764291518642316,0.0015525443138112852
+Deaths,Global,Both,All Ages,Upper respiratory infections,Ambient particulate matter pollution,Rate,2015,0.00012759489297042034,0.00020120363921316385,7.305487674198234e-05
+Deaths,Global,Both,All Ages,Diarrheal diseases,Ambient particulate matter pollution,Rate,2014,0.059780661626471304,0.08756561057937516,0.038059589834275695
+Deaths,Global,Both,All Ages,Intracerebral hemorrhage,Ambient particulate matter pollution,Rate,2015,7.1335627775787716,8.321590022030032,5.662135782472601
+Deaths,Global,Both,All Ages,Lower respiratory infections,Ambient particulate matter pollution,Rate,2011,4.25595307989254,5.878384525150224,2.9544051412043655
+Deaths,Global,Both,All Ages,Subarachnoid hemorrhage,Ambient particulate matter pollution,Rate,2012,0.8284520351051501,1.0383931919666516,0.6350761010757491
+Deaths,Global,Both,All Ages,Ischemic heart disease,Ambient particulate matter pollution,Rate,2016,16.421213812115337,19.221856161484748,13.526818084273907
+Deaths,Global,Both,All Ages,Neonatal sepsis and other neonatal infections,Ambient particulate matter pollution,Rate,2012,0.1805467184328476,0.26480684653779496,0.1202713376609838
+Deaths,Global,Both,All Ages,Hemolytic disease and other neonatal jaundice,Ambient particulate matter pollution,Rate,2012,0.07738351592345752,0.11020822418181785,0.051295294527013084
+Deaths,Global,Both,All Ages,Encephalitis,Ambient particulate matter pollution,Rate,2014,0.0018817039295149609,0.002589348799890964,0.001341396500152728
+Deaths,Global,Both,All Ages,Ischemic heart disease,Ambient particulate matter pollution,Rate,2011,15.254761728360162,18.055431521177457,12.369817044504368
+Deaths,Global,Both,All Ages,Neonatal preterm birth,Ambient particulate matter pollution,Rate,2016,0.7209358514278741,0.954107270434589,0.5182272091899388
+Deaths,Global,Both,All Ages,Lower respiratory infections,Ambient particulate matter pollution,Rate,2012,4.366811697564656,6.00564144183703,3.0824338484436797
+Deaths,Global,Both,All Ages,"Tracheal, bronchus, and lung cancer",Ambient particulate matter pollution,Rate,2015,3.7555908287722968,4.7209882727110575,2.7508447038987467
+Deaths,Global,Both,All Ages,Diabetes mellitus type 2,Ambient particulate matter pollution,Rate,2012,2.0125078977947646,2.6587149674365187,1.408400924593038
+Deaths,Global,Both,All Ages,Lower respiratory infections,Ambient particulate matter pollution,Rate,2014,4.561563556716612,6.18298325298472,3.218355992859571
+Deaths,Global,Both,All Ages,Other neonatal disorders,Ambient particulate matter pollution,Rate,2014,0.44045102348880333,0.605655456848766,0.30816225693696986
+Deaths,Global,Both,All Ages,Otitis media,Ambient particulate matter pollution,Rate,2016,6.951686972874565e-05,0.0002512941265201211,6.0826277056496065e-06
+Deaths,Global,Both,All Ages,Meningitis,Ambient particulate matter pollution,Rate,2016,0.01406746288272865,0.021028561642602375,0.008910513228120443
+Deaths,Global,Both,All Ages,Upper respiratory infections,Ambient particulate matter pollution,Rate,2013,0.00014001715634996285,0.00022594466397263922,8.085118068151848e-05
+Deaths,Global,Both,All Ages,Ischemic heart disease,Ambient particulate matter pollution,Rate,2013,15.968784723145713,18.78748640482143,13.124407388208098
+Deaths,Global,Both,All Ages,Neonatal encephalopathy due to birth asphyxia and trauma,Ambient particulate matter pollution,Rate,2016,0.5363494216408101,0.7538478854193978,0.3562958841785559
+Deaths,Global,Both,All Ages,Upper respiratory infections,Ambient particulate matter pollution,Rate,2014,0.00013414918153097373,0.00021764870171350604,7.631216221918199e-05
+Deaths,Global,Both,All Ages,Diarrheal diseases,Ambient particulate matter pollution,Rate,2015,0.054823145399061496,0.08091695370109771,0.034785485534311975
+Deaths,Global,Both,All Ages,Intracerebral hemorrhage,Ambient particulate matter pollution,Rate,2012,7.124449387114763,8.502294064485504,5.681604182648051
+Deaths,Global,Both,All Ages,"Tracheal, bronchus, and lung cancer",Ambient particulate matter pollution,Rate,2016,3.746726833985831,4.77559793024047,2.7850874121230116
+Deaths,Global,Both,All Ages,Encephalitis,Ambient particulate matter pollution,Rate,2015,0.0018771911221769628,0.002591618541756458,0.0013235899993272024
+Deaths,Global,Both,All Ages,Neonatal sepsis and other neonatal infections,Ambient particulate matter pollution,Rate,2015,0.18820458899546041,0.26982478686005473,0.12614623027674687
+Deaths,Global,Both,All Ages,Chronic obstructive pulmonary disease,Ambient particulate matter pollution,Rate,2016,8.668211618233803,10.742299809625797,6.952948478072472
+Deaths,Global,Both,All Ages,Hemolytic disease and other neonatal jaundice,Ambient particulate matter pollution,Rate,2015,0.0744746320097035,0.10226148810426382,0.05044927851530296
+Deaths,Global,Both,All Ages,Ischemic heart disease,Ambient particulate matter pollution,Rate,2014,16.163685758228972,18.931730433318428,13.303774768931152
+Deaths,Global,Both,All Ages,Otitis media,Ambient particulate matter pollution,Rate,2014,7.851818744008374e-05,0.00028920326384111977,6.8164508360678395e-06
+Deaths,Global,Both,All Ages,Meningitis,Ambient particulate matter pollution,Rate,2014,0.016446171132564486,0.024258183791731825,0.010597060393466022
+Deaths,Global,Both,All Ages,Intracerebral hemorrhage,Ambient particulate matter pollution,Rate,2013,7.143067371212335,8.480976998204053,5.660973314903508
+Deaths,Global,Both,All Ages,Neonatal preterm birth,Ambient particulate matter pollution,Rate,2014,0.7805220095684041,1.0393604008368924,0.5619209509032158
+Deaths,Global,Both,All Ages,Chronic obstructive pulmonary disease,Ambient particulate matter pollution,Rate,2014,8.815166784877865,10.785087338498428,7.018829217234813
+Deaths,Global,Both,All Ages,Lower respiratory infections,Ambient particulate matter pollution,Rate,2016,4.357267098687825,5.866563498553871,3.0943829920906785
+Deaths,Global,Both,All Ages,Sudden infant death syndrome,Ambient particulate matter pollution,Rate,2012,0.003224886593447868,0.006952173665562967,0.0015713518856785556
+Deaths,Global,Both,All Ages,Neonatal encephalopathy due to birth asphyxia and trauma,Ambient particulate matter pollution,Rate,2014,0.5687377222457412,0.8109666785226554,0.3751094402693027
+Deaths,Global,Both,All Ages,Otitis media,Ambient particulate matter pollution,Rate,2013,8.062216432007129e-05,0.0002956998085232211,6.861618598679495e-06
+Deaths,Global,Both,All Ages,Other neonatal disorders,Ambient particulate matter pollution,Rate,2016,0.410891991666729,0.5605607259635995,0.2881923565610726
+Deaths,Global,Both,All Ages,Meningitis,Ambient particulate matter pollution,Rate,2013,0.016701877773879065,0.024890360888937844,0.01066297939501646
+Deaths,Global,Both,All Ages,Diarrheal diseases,Ambient particulate matter pollution,Rate,2013,0.06411691146658186,0.09396883217694411,0.041452694921246175
+Deaths,Global,Both,All Ages,Lower respiratory infections,Ambient particulate matter pollution,Rate,2015,4.532916884164935,6.181396385390325,3.2134762367843734
+Deaths,Global,Both,All Ages,Neonatal preterm birth,Ambient particulate matter pollution,Rate,2013,0.785395407843664,1.052107498479586,0.5659604378120211
+Deaths,Global,Both,All Ages,Encephalitis,Ambient particulate matter pollution,Rate,2013,0.00187284623541816,0.002579955263599541,0.0013384086285899513
+Deaths,Global,Both,All Ages,Neonatal encephalopathy due to birth asphyxia and trauma,Ambient particulate matter pollution,Rate,2013,0.5655915156657186,0.8106421618429333,0.37066294030938624
+Deaths,Global,Both,All Ages,Neonatal sepsis and other neonatal infections,Ambient particulate matter pollution,Rate,2013,0.1863302219684473,0.26832592903215735,0.12481431087676438
+Deaths,Global,Both,All Ages,Other neonatal disorders,Ambient particulate matter pollution,Rate,2015,0.4373856430313837,0.6033530563667039,0.306023646356628
+Deaths,Global,Both,All Ages,Diarrheal diseases,Ambient particulate matter pollution,Rate,2016,0.049251798954139656,0.07294283903059713,0.03112567965558928
+Deaths,Global,Both,All Ages,Hemolytic disease and other neonatal jaundice,Ambient particulate matter pollution,Rate,2013,0.07843763183416089,0.10998668669765399,0.05288777655284565
+Deaths,Global,Both,All Ages,Encephalitis,Ambient particulate matter pollution,Rate,2016,0.0018029741055433162,0.0025058566783569963,0.0012816755997821863
+Deaths,Global,Both,All Ages,Intracerebral hemorrhage,Ambient particulate matter pollution,Rate,2014,7.140171662439619,8.412505290529475,5.6933800994829635
+Deaths,Global,Both,All Ages,"Tracheal, bronchus, and lung cancer",Ambient particulate matter pollution,Rate,2013,3.643618046741776,4.597694995495728,2.687030393879617
+Deaths,Global,Both,All Ages,"Tracheal, bronchus, and lung cancer",Ambient particulate matter pollution,Rate,2014,3.7022663477776265,4.670716306213766,2.7172477581787375
+Deaths,Global,Both,All Ages,Ischemic stroke,Ambient particulate matter pollution,Rate,2015,6.289180514946467,7.261774390807464,5.161015050233437
+Deaths,Global,Both,All Ages,Subarachnoid hemorrhage,Ambient particulate matter pollution,Rate,2015,0.8749582145114401,1.076781265542135,0.6756729789954945
+Deaths,Global,Both,All Ages,Neonatal sepsis and other neonatal infections,Ambient particulate matter pollution,Rate,2016,0.18184328667712313,0.2608856379293438,0.12064003354306231
+Deaths,Global,Both,All Ages,Hemolytic disease and other neonatal jaundice,Ambient particulate matter pollution,Rate,2016,0.06793153459704004,0.09326985975179232,0.046355687223156035
+Deaths,Global,Both,All Ages,Intracerebral hemorrhage,Ambient particulate matter pollution,Rate,2016,7.076411483888226,8.376703381316252,5.657804465809915
+Deaths,Global,Both,All Ages,Diabetes mellitus type 2,Ambient particulate matter pollution,Rate,2017,2.3474835077798404,3.087358626232429,1.6405452412087453
+Deaths,Global,Both,All Ages,Diabetes mellitus type 2,Ambient particulate matter pollution,Rate,2016,2.3017940644535293,3.0375524745257985,1.6012520559811767
+Deaths,Global,Both,All Ages,Sudden infant death syndrome,Ambient particulate matter pollution,Rate,2014,0.003232234123948908,0.006971206920221286,0.001555542325052871
+Deaths,Global,Both,All Ages,Diarrheal diseases,Ambient particulate matter pollution,Rate,2018,0.04305701153587905,0.06269999212768551,0.028065953107482788
+Deaths,Global,Both,All Ages,Ischemic heart disease,Ambient particulate matter pollution,Rate,2015,16.475543050041626,19.168313929286555,13.477502191340477
+Deaths,Global,Both,All Ages,Encephalitis,Ambient particulate matter pollution,Rate,2018,0.0017413069102443352,0.0024384638107454483,0.0012281095749296037
+Deaths,Global,Both,All Ages,Neonatal sepsis and other neonatal infections,Ambient particulate matter pollution,Rate,2018,0.17577736185733314,0.2548174199664347,0.11799965997887402
+Deaths,Global,Both,All Ages,Hemolytic disease and other neonatal jaundice,Ambient particulate matter pollution,Rate,2018,0.059206089388175454,0.08156381872521355,0.04123865918853216
+Deaths,Global,Both,All Ages,Ischemic stroke,Ambient particulate matter pollution,Rate,2013,6.1023523152776535,7.122329108672737,4.952130585442245
+Deaths,Global,Both,All Ages,Subarachnoid hemorrhage,Ambient particulate matter pollution,Rate,2013,0.8467444791120428,1.0564992594920464,0.6480164074313747
+Deaths,Global,Both,All Ages,Sudden infant death syndrome,Ambient particulate matter pollution,Rate,2016,0.0029959828423976264,0.006223277939201219,0.001480856940984667
+Deaths,Global,Both,All Ages,Chronic obstructive pulmonary disease,Ambient particulate matter pollution,Rate,2015,8.817782210444852,10.79099411537521,7.021147304872154
+Deaths,Global,Both,All Ages,Diabetes mellitus type 2,Ambient particulate matter pollution,Rate,2014,2.178904751238794,2.867273271654869,1.536626126972289
+Deaths,Global,Both,All Ages,Intracerebral hemorrhage,Ambient particulate matter pollution,Rate,2019,7.218707343796741,8.532339685776616,5.825497656785938
+Deaths,Global,Both,All Ages,Lower respiratory infections,Ambient particulate matter pollution,Rate,2017,4.189367309083579,5.6777365375800395,2.9825609758069542
+Deaths,Global,Both,All Ages,Other neonatal disorders,Ambient particulate matter pollution,Rate,2017,0.38973148562759113,0.536640737296898,0.2718145148380257
+Deaths,Global,Both,All Ages,Upper respiratory infections,Ambient particulate matter pollution,Rate,2017,0.00011104333122677408,0.000169088254867216,6.457308947642423e-05
+Deaths,Global,Both,All Ages,Lower respiratory infections,Ambient particulate matter pollution,Rate,2018,4.172932285605057,5.608585015765682,2.9616309928025673
+Deaths,Global,Both,All Ages,"Tracheal, bronchus, and lung cancer",Ambient particulate matter pollution,Rate,2019,3.976507499585105,5.113669317314429,2.9296889747136095
+Deaths,Global,Both,All Ages,Ischemic stroke,Ambient particulate matter pollution,Rate,2018,6.4404303982996725,7.528563150567354,5.260003063588302
+Deaths,Global,Both,All Ages,Otitis media,Ambient particulate matter pollution,Rate,2017,6.388123160302179e-05,0.00023177406546063997,5.528243594795514e-06
+Deaths,Global,Both,All Ages,Meningitis,Ambient particulate matter pollution,Rate,2017,0.012178993227484525,0.018410471939053052,0.007567757982544277
+Deaths,Global,Both,All Ages,Neonatal preterm birth,Ambient particulate matter pollution,Rate,2017,0.673094608768089,0.8977088438400609,0.4765807872533659
+Deaths,Global,Both,All Ages,Upper respiratory infections,Ambient particulate matter pollution,Rate,2018,0.00010500245469616399,0.00015769460860621528,6.256409448039582e-05
+Deaths,Global,Both,All Ages,Neonatal encephalopathy due to birth asphyxia and trauma,Ambient particulate matter pollution,Rate,2017,0.509170401384349,0.7212372333843439,0.34073406671973905
+Deaths,Global,Both,All Ages,Subarachnoid hemorrhage,Ambient particulate matter pollution,Rate,2018,0.869355370631105,1.057279407200724,0.6877305209727536
+Deaths,Global,Both,All Ages,Ischemic heart disease,Ambient particulate matter pollution,Rate,2017,16.381469863430674,19.2724438997041,13.594516243769377
+Deaths,Global,Both,All Ages,Sudden infant death syndrome,Ambient particulate matter pollution,Rate,2019,0.002691195101572216,0.005563573511577494,0.0013707721534056984
+Deaths,Global,Both,All Ages,Ischemic stroke,Ambient particulate matter pollution,Rate,2019,6.66829754624095,7.820261021837788,5.541614988206278
+Deaths,Global,Both,All Ages,Subarachnoid hemorrhage,Ambient particulate matter pollution,Rate,2019,0.8898218985680236,1.0756768228232352,0.7040334387825339
+Deaths,Global,Both,All Ages,Other neonatal disorders,Ambient particulate matter pollution,Rate,2018,0.38040496294571785,0.5221661176868508,0.2621832832661947
+Deaths,Global,Both,All Ages,Chronic obstructive pulmonary disease,Ambient particulate matter pollution,Rate,2017,8.55181868873683,10.57836773155518,6.8362545136440644
+Deaths,Global,Both,All Ages,"Tracheal, bronchus, and lung cancer",Ambient particulate matter pollution,Rate,2017,3.7508607420416347,4.762197941275841,2.7432161078399266
+Deaths,Global,Both,All Ages,Otitis media,Ambient particulate matter pollution,Rate,2018,6.257052006382239e-05,0.00022831988778546688,5.291259248511967e-06
+Deaths,Global,Both,All Ages,Diabetes mellitus type 2,Ambient particulate matter pollution,Rate,2015,2.2496928086138497,2.9701045729933133,1.5773757612449129
+Deaths,Global,Both,All Ages,Intracerebral hemorrhage,Ambient particulate matter pollution,Rate,2017,6.978330906924346,8.207247572322924,5.572678218717365
+Deaths,Global,Both,All Ages,Meningitis,Ambient particulate matter pollution,Rate,2018,0.011557365970396593,0.01751630380399707,0.007193072494025096
+Deaths,Global,Both,All Ages,Neonatal preterm birth,Ambient particulate matter pollution,Rate,2018,0.648715981082019,0.8760725859382553,0.4648476540260736
+Deaths,Global,Both,All Ages,Neonatal encephalopathy due to birth asphyxia and trauma,Ambient particulate matter pollution,Rate,2018,0.49559911400313456,0.7037358791823358,0.3320159049683454
+Deaths,Global,Both,All Ages,Ischemic heart disease,Ambient particulate matter pollution,Rate,2018,16.722018382909837,19.73478643494389,13.728982284647687
+Deaths,Global,Both,All Ages,Intracerebral hemorrhage,Ambient particulate matter pollution,Rate,2018,7.036270259106247,8.333922864075978,5.686273792817661
+Deaths,Global,Both,All Ages,Diarrheal diseases,Ambient particulate matter pollution,Rate,2017,0.04699344786962239,0.06893180297102695,0.030117059876063154
+Deaths,Global,Both,All Ages,Sudden infant death syndrome,Ambient particulate matter pollution,Rate,2017,0.002798544251733196,0.005728906534193886,0.0013930729514889625
+Deaths,Global,Both,All Ages,Upper respiratory infections,Ambient particulate matter pollution,Rate,2016,0.00012154237329331581,0.0001855499335203355,7.308844962145589e-05
+Deaths,Global,Both,All Ages,"Tracheal, bronchus, and lung cancer",Ambient particulate matter pollution,Rate,2018,3.841388586980904,4.8888470990974415,2.8060558229907047
+Deaths,Global,Both,All Ages,Encephalitis,Ambient particulate matter pollution,Rate,2017,0.0017624301300972944,0.0024722334601984426,0.0012298591324524032
+Deaths,Global,Both,All Ages,Upper respiratory infections,Ambient particulate matter pollution,Rate,2019,0.00010142124012279555,0.0001542888423267699,5.6512786118798526e-05
+Deaths,Global,Both,All Ages,Chronic obstructive pulmonary disease,Ambient particulate matter pollution,Rate,2018,8.729078578974542,10.75106949778679,6.880910993542967
+Deaths,Global,Both,All Ages,Neonatal sepsis and other neonatal infections,Ambient particulate matter pollution,Rate,2017,0.17728736683525165,0.25161144875129515,0.11824646863781824
+Deaths,Global,Both,All Ages,Ischemic heart disease,Ambient particulate matter pollution,Rate,2019,17.2155007169313,20.125827277425778,14.047472629414182
+Deaths,Global,Both,All Ages,Sudden infant death syndrome,Ambient particulate matter pollution,Rate,2018,0.0027086079456841022,0.005547571891611965,0.0013583518892887636
+Deaths,Global,Both,All Ages,Hemolytic disease and other neonatal jaundice,Ambient particulate matter pollution,Rate,2017,0.06221840769002948,0.08580585185041863,0.042231964067617304
+Deaths,Global,Both,All Ages,Diarrheal diseases,Ambient particulate matter pollution,Rate,2019,0.040874301487492326,0.059326958168115305,0.026899462471879625
+Deaths,Global,Both,All Ages,Encephalitis,Ambient particulate matter pollution,Rate,2019,0.0017754655088411597,0.0024858040582809915,0.0012591293366094583
+Deaths,Global,Both,All Ages,Chronic obstructive pulmonary disease,Ambient particulate matter pollution,Rate,2019,8.983190022832314,11.138730517970615,7.157773925341022
+Deaths,Global,Both,All Ages,Neonatal sepsis and other neonatal infections,Ambient particulate matter pollution,Rate,2019,0.17948626635284556,0.259116339767481,0.11848982258762059
+Deaths,Global,Both,All Ages,Hemolytic disease and other neonatal jaundice,Ambient particulate matter pollution,Rate,2019,0.0579407180071596,0.07958167253505614,0.040757602918545424
+Deaths,Global,Both,All Ages,Otitis media,Ambient particulate matter pollution,Rate,2019,6.22606778807692e-05,0.00023013751398521382,5.081216253236905e-06
+Deaths,Global,Both,All Ages,Meningitis,Ambient particulate matter pollution,Rate,2019,0.01140021229497619,0.01724564211384975,0.007240169149590499
+Deaths,Global,Both,All Ages,Neonatal preterm birth,Ambient particulate matter pollution,Rate,2019,0.6371962491775515,0.8579018439922702,0.45726738997417754
+Deaths,Global,Both,All Ages,Neonatal encephalopathy due to birth asphyxia and trauma,Ambient particulate matter pollution,Rate,2019,0.49528088760784633,0.6937965766404132,0.33271075729380867
+Deaths,Global,Both,All Ages,Lower respiratory infections,Ambient particulate matter pollution,Rate,2019,4.217831097362072,5.640717755612864,2.966956085555039
+Deaths,Global,Both,All Ages,Other neonatal disorders,Ambient particulate matter pollution,Rate,2019,0.3784208847893314,0.5162444642731259,0.26314854230328416
+Deaths,Global,Both,All Ages,Diabetes mellitus type 2,Ambient particulate matter pollution,Rate,2018,2.433500751758195,3.1826613685784517,1.669236402750904
+Deaths,Global,Both,All Ages,Ischemic stroke,Ambient particulate matter pollution,Rate,2017,6.294755247613918,7.322814432173285,5.20164472751872
+Deaths,Global,Both,All Ages,Subarachnoid hemorrhage,Ambient particulate matter pollution,Rate,2017,0.8635386422109881,1.0567576794345483,0.6843340118909714
+Deaths,Global,Both,All Ages,Diabetes mellitus type 2,Ambient particulate matter pollution,Rate,2019,2.5433631744233827,3.3394957422233187,1.7615693830783687

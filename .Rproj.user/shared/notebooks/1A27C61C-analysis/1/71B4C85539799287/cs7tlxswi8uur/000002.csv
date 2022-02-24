@@ -1,0 +1,6 @@
+"0","mod1 <- no.na_q2%>%
+            lm(`Air Pollution`~ 1)
+"
+"2","Error in as.data.frame.default(data) : 
+  cannot coerce class ‘""formula""’ to a data.frame
+"

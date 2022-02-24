@@ -1,0 +1,27 @@
+{
+    "id": "00C56A95",
+    "path": "~/unil/data_science_for_business_analytics/project/dsfba_project/report/eda.Rmd",
+    "project_path": "report/eda.Rmd",
+    "type": "r_markdown",
+    "hash": "1584269196",
+    "contents": "",
+    "dirty": false,
+    "created": 1639837729482.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "212,64",
+        "scrollLine": "0",
+        "ignored_words": "outliers,boxplot\n"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1639837034,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1639837034,
+    "read_only": false,
+    "read_only_alternatives": []
+}

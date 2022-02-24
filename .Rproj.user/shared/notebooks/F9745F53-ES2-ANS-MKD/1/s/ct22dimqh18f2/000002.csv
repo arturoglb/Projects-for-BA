@@ -1,0 +1,1 @@
+"0","plot(mod4$fitted.values, mod4$residuals, xlab=""Fitted values"", ylab=""Residuals"")"

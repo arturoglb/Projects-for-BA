@@ -1,0 +1,3 @@
+"0","do.call( addMapLegend, c( mapParams"
+"0","                          , legendLabels=""all"""
+"0","                          , legendWidth=0.5 ))"

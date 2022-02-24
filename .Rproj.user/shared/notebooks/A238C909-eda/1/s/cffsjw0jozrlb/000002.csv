@@ -1,0 +1,5 @@
+"0",""
+"0","plot_ly(x=~mortality_rate_country_wide_current$diff, type=""histogram"", marker = list(color = viridis::viridis_pal(option = ""C"", direction = -1)(50))) %>%"
+"0","  layout(title=""<b>Histogram of Global Mortality Rate Change<b>"","
+"0","         xaxis = list(title=""<b>Mortality rate change (per 100k population)<b>""),"
+"0","         yaxis = list(title=""<b>Frequency</b>"", rangemode = ""tozero""))"
